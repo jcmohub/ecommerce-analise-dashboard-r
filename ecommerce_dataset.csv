@@ -1,0 +1,1001 @@
+order_id;customer_id;order_date;delivery_date;product;category;price;quantity;discount;state;channel;payment_type;return_flag
+1;0a71894d-1cb4-48e4-a389-e424edcc5456;09/06/2025;14/06/2025;Magnam;Infantil;57.3;4;16.69;RJ;Site;Pix;Sim
+2;a827bb96-4f9d-4d3a-8bb5-772b7ac56466;20/02/2025;22/02/2025;Quasi;Cabelos;369.34;2;10.62;MG;Loja Física;Cartão de Crédito;Sim
+3;c333add9-cd1d-4e92-9b8e-cba0c6e0ae6a;27/05/2025;30/05/2025;Quas;Maquiagem;233.01;1;26.24;SC;Site;Cartão de Crédito;Sim
+4;96ac8ee1-5d4f-42dc-8ffd-1747342e23f8;05/06/2025;08/06/2025;Labore;Cabelos;72.59;2;9.98;RS;Loja Física;Cartão de Crédito;Sim
+5;48977712-afb9-47f9-9ed0-49fbe6a368b2;30/01/2025;03/02/2025;Aperiam;Infantil;60.57;4;47.11;SC;Site;Carteira Digital;Não
+6;e307e465-cff2-4477-9ddf-5b79d5e67398;02/02/2025;04/02/2025;Quos;Beleza;138.52;4;22.01;MG;Loja Física;Carteira Digital;Não
+7;a7f7ec13-5bc3-4ca1-9c7d-aca5c16ed652;29/03/2025;31/03/2025;Dolore;Pele;457.38;4;9.11;MG;Site;Pix;Sim
+8;741c7a13-8b2e-4776-a2a3-3190bdf30195;30/01/2025;03/02/2025;Culpa;Beleza;425.87;4;46.97;SC;Site;Pix;Não
+9;829c89e1-0699-4ef2-9e14-4f2557a3db90;30/04/2025;05/05/2025;Eius;Maquiagem;182.91;4;37.37;PR;Site;Carteira Digital;Sim
+10;b4b2f380-5e67-4e65-8f2b-041c02cbf6dc;25/05/2025;31/05/2025;Et;Perfumes;37.35;1;38.61;RJ;Loja Física;Pix;Não
+11;0280fc02-9168-42bf-bb4a-04fb7169e3f4;07/04/2025;08/04/2025;Eius;Maquiagem;413.27;1;35.57;RS;Loja Física;Cartão de Crédito;Sim
+12;879dfda5-d9ec-44a0-af26-97f68ee89257;09/03/2025;17/03/2025;Rem;Infantil;344.36;1;36.48;RS;App;Cartão de Crédito;Sim
+13;3466443f-5f5b-4239-b61a-c2e1397bd502;16/05/2025;24/05/2025;Blanditiis;Beleza;275.68;3;5.54;SC;App;Carteira Digital;Não
+14;b881b121-73c4-43ac-ae00-1c7f44b3381c;08/02/2025;14/02/2025;Dolorum;Cabelos;314.08;3;37.78;BA;App;Boleto;Não
+15;f3f28738-d77e-480f-bebc-8aa01107b5f3;28/02/2025;02/03/2025;Saepe;Infantil;105.77;2;31.22;RJ;Loja Física;Boleto;Sim
+16;80e97f96-09e7-47e3-9e8d-6c4208356c5c;27/04/2025;30/04/2025;Voluptatum;Cabelos;225.76;2;26.97;DF;App;Pix;Sim
+17;0e501b73-6a36-4b5a-9118-da4ff4b4a21e;13/04/2025;17/04/2025;Enim;Infantil;230.74;4;17.63;BA;Site;Boleto;Sim
+18;d3c9f587-4b25-4d98-a1fe-00d240143b24;07/06/2025;12/06/2025;Soluta;Pele;144.74;3;16.16;SC;App;Cartão de Crédito;Sim
+19;9e91dab0-2c00-41dc-88db-76d358240e45;09/05/2025;16/05/2025;Asperiores;Maquiagem;163.88;1;13.34;BA;Site;Carteira Digital;Não
+20;cfecaec4-4e05-4eed-8123-136a23f411ee;18/06/2025;21/06/2025;Nihil;Infantil;328.15;2;7.24;DF;Site;Pix;Sim
+21;deef4602-4277-490a-bcc7-e5b8f6809808;18/03/2025;25/03/2025;Eligendi;Cabelos;327.18;2;19.94;PR;Loja Física;Carteira Digital;Não
+22;3dae0dad-450b-4ae0-aa78-2d8cc647ee5f;15/04/2025;22/04/2025;Laboriosam;Pele;364.24;3;11.32;RS;Site;Carteira Digital;Sim
+23;18b60554-27db-4cef-a27f-9a1f3d5f827e;05/04/2025;10/04/2025;Sint;Beleza;190.3;1;10.45;RJ;Site;Boleto;Não
+24;61a1c63d-35d8-4dde-bf01-5ab9954b47a1;14/01/2025;20/01/2025;Odio;Maquiagem;498.24;2;44.86;RJ;App;Carteira Digital;Não
+25;951f574d-983e-4e65-a368-042b599f8eee;11/06/2025;20/06/2025;Expedita;Maquiagem;105.97;2;33.45;PR;Loja Física;Cartão de Crédito;Sim
+26;0efc604f-9b23-4a16-83dc-317de809c5cd;08/02/2025;15/02/2025;Placeat;Infantil;497.4;4;35.61;PR;Loja Física;Pix;Sim
+27;9cc28c10-6cc4-4b23-8f29-be4a199bbe30;19/04/2025;26/04/2025;Impedit;Pele;202.83;3;12.52;SC;Site;Carteira Digital;Sim
+28;2540fef8-fe38-4bca-95b3-16330452a2e8;09/07/2025;18/07/2025;Maxime;Infantil;264.62;4;1.22;PR;Loja Física;Boleto;Sim
+29;1f3c6119-c9c9-4503-a696-1de9c9d5acda;08/05/2025;14/05/2025;Accusantium;Infantil;466.31;1;27.64;PR;Loja Física;Boleto;Sim
+30;2c0ccadd-3150-42fc-b199-05214f5b8648;23/06/2025;27/06/2025;Deserunt;Pele;156.18;3;8.47;MG;Loja Física;Cartão de Crédito;Não
+31;8e37b586-e71e-4651-9371-24c38c0e6faa;02/05/2025;09/05/2025;Veniam;Perfumes;273.61;2;16.13;SP;Site;Pix;Não
+32;6a9ea95c-6225-4b84-b380-62b06c36d9f0;24/03/2025;29/03/2025;Nesciunt;Cabelos;150.42;4;45.66;SP;Site;Cartão de Crédito;Sim
+33;a3010275-d7b8-4199-b1d4-1ad12f80aaa4;04/02/2025;13/02/2025;Consequatur;Infantil;301.79;2;16.41;DF;Site;Boleto;Sim
+34;f978fdfc-579e-42ae-8516-303e8f7cfd09;01/02/2025;06/02/2025;Pariatur;Infantil;172.53;3;6.35;DF;Loja Física;Boleto;Não
+35;450f9507-40c5-4878-b3e5-343ddbb3eaeb;14/03/2025;18/03/2025;Quisquam;Maquiagem;54.29;4;20.57;SC;Site;Boleto;Não
+36;888ed428-1063-41cf-9bce-c99c6a3659ce;02/07/2025;07/07/2025;Adipisci;Perfumes;217.45;3;21.95;BA;App;Carteira Digital;Sim
+37;71cd79cd-d8b7-4c72-8464-5c4b1390efd1;23/02/2025;24/02/2025;Veritatis;Cabelos;482.44;3;21.42;RS;Site;Pix;Sim
+38;03375512-169b-4a80-b724-f306d030cc4e;23/06/2025;27/06/2025;Non;Maquiagem;74.12;1;33.01;RS;Loja Física;Boleto;Sim
+39;85088021-1afb-4866-9959-bb5a4c7329ad;06/07/2025;13/07/2025;Ipsa;Beleza;386.19;1;17.09;SP;Site;Cartão de Crédito;Sim
+40;7927a51f-2797-4022-a1cd-0a031c02f3a8;18/04/2025;20/04/2025;Nisi;Pele;490.37;1;23.71;RJ;Loja Física;Boleto;Não
+41;7e3c9ca9-23de-44c2-84d3-bf5c50d6eb75;22/06/2025;25/06/2025;Inventore;Infantil;233.91;3;2.4;DF;Site;Boleto;Não
+42;e7b4dfc3-2f26-4806-9bff-db15c55f5fa9;10/05/2025;13/05/2025;Dignissimos;Cabelos;468.72;4;42.82;DF;App;Boleto;Sim
+43;06a147c1-b144-4b35-b905-fad685dd9a9a;22/03/2025;25/03/2025;Cumque;Beleza;42.46;4;31.82;SC;App;Carteira Digital;Não
+44;27ade302-b942-4b37-b88c-ed6287a60679;24/02/2025;05/03/2025;Ad;Perfumes;158.76;4;5.04;SP;Loja Física;Cartão de Crédito;Sim
+45;be159f34-73f8-4f4f-a874-a9d467b4949c;22/01/2025;23/01/2025;Hic;Perfumes;351.01;1;32.79;BA;Site;Boleto;Sim
+46;cc437707-5874-4c97-b2e4-2b6370c5b597;19/01/2025;25/01/2025;Cum;Cabelos;470.22;4;36.75;DF;Site;Carteira Digital;Sim
+47;61cee353-c655-483b-8f14-f33359cd7eac;01/04/2025;08/04/2025;Neque;Pele;394.91;4;43.36;DF;Site;Cartão de Crédito;Não
+48;303536c9-7e99-4c14-8793-fff55c60c243;24/02/2025;01/03/2025;Repellendus;Maquiagem;281.13;4;41.32;RJ;Site;Cartão de Crédito;Sim
+49;c55db95f-d96c-41a8-99ef-89461f301973;13/01/2025;16/01/2025;Eius;Cabelos;455.53;4;17.75;MG;App;Carteira Digital;Não
+50;ac283826-583c-4a39-b777-65de298a0b0c;20/03/2025;25/03/2025;Aliquid;Cabelos;313.15;4;33.63;SC;Site;Boleto;Não
+51;4490d560-f410-43a2-8107-28d22048c6f8;20/06/2025;25/06/2025;Ipsa;Beleza;288.28;1;36.85;SC;App;Carteira Digital;Não
+52;a6fa1a05-1497-4d0d-8fae-379eab64f78a;04/07/2025;13/07/2025;Temporibus;Perfumes;449.19;2;4.07;DF;Site;Boleto;Não
+53;a8c4ba1b-a01c-4a7c-aa48-c4cb4aaa6c30;16/04/2025;23/04/2025;Iure;Cabelos;206.84;3;24.08;SP;Loja Física;Cartão de Crédito;Não
+54;39f47045-cb4d-401f-9687-b823a601fe71;07/06/2025;12/06/2025;Odio;Beleza;220.44;2;2.82;SP;Loja Física;Carteira Digital;Sim
+55;02086080-e9dc-419d-b0dd-08d17f6fc9bc;13/04/2025;17/04/2025;Voluptates;Beleza;482.22;3;23.89;RJ;Site;Cartão de Crédito;Sim
+56;5e6c8b8b-349d-41b5-9d65-27964e980ee6;28/06/2025;04/07/2025;Necessitatibus;Infantil;50.4;1;49.65;RS;App;Cartão de Crédito;Sim
+57;cd28acf8-5594-4068-81fb-f6e893070c59;26/04/2025;02/05/2025;Repellat;Maquiagem;324.95;2;19.21;SP;Loja Física;Cartão de Crédito;Não
+58;42c1d4d6-d1ba-4a5a-9cba-e2beb401e13e;15/06/2025;20/06/2025;Occaecati;Infantil;187.76;2;9.41;BA;App;Boleto;Não
+59;0b855f58-dbae-4f9f-82be-8ddb0d129ff2;13/05/2025;19/05/2025;Amet;Cabelos;281.97;1;20.56;PR;App;Boleto;Não
+60;bd1ff544-b643-4c54-ace9-7a453bea74e2;23/02/2025;26/02/2025;Quisquam;Perfumes;472.05;3;36.29;BA;Site;Cartão de Crédito;Não
+61;b7a81c67-af97-4a4a-82ec-bd1ed870b5f3;15/05/2025;20/05/2025;Quod;Maquiagem;206.94;1;24.02;RJ;Site;Boleto;Não
+62;afaf4901-88c9-4a2a-94c8-0ddf6c2938c7;28/01/2025;03/02/2025;Odio;Cabelos;47.31;3;13.67;BA;Site;Boleto;Não
+63;18dab4e4-992d-4817-9f7e-edc9a46e8cd4;06/02/2025;15/02/2025;Incidunt;Pele;241.76;2;12.57;MG;App;Pix;Sim
+64;abe7b7e8-b0d1-4eb4-8f2b-ba1c12bcd89c;28/06/2025;02/07/2025;Autem;Infantil;156.28;3;33.58;PR;Loja Física;Cartão de Crédito;Sim
+65;de49f814-45a2-4943-9923-843e93369ac1;03/04/2025;11/04/2025;Incidunt;Pele;43.53;3;39.23;RJ;Site;Boleto;Não
+66;a64d09d4-d607-49fa-b354-acedb3c4ebb8;14/02/2025;22/02/2025;Cumque;Pele;371.41;1;25.7;RS;Loja Física;Pix;Sim
+67;b7829706-9f7a-49d3-a1ac-497b36ab3650;23/06/2025;01/07/2025;Dolores;Infantil;245.79;2;31.04;PR;Loja Física;Carteira Digital;Não
+68;bd6e25dd-9b0b-4565-ac84-a4c3c1fcd371;22/06/2025;27/06/2025;Aperiam;Beleza;304.84;3;6.94;RJ;Loja Física;Carteira Digital;Não
+69;d8a57e82-a7d4-4759-bacf-211174a3775a;18/01/2025;24/01/2025;Corporis;Beleza;120.38;3;41.09;SP;App;Boleto;Não
+70;141fd1a9-04d8-427f-9650-5ba3dcac41c7;13/02/2025;15/02/2025;Molestias;Cabelos;287.9;1;23.04;DF;Loja Física;Carteira Digital;Sim
+71;c1ef7d8e-f8b0-404f-b53a-8feff1a61d8f;08/04/2025;12/04/2025;Assumenda;Beleza;405.72;1;34.39;RJ;Loja Física;Boleto;Sim
+72;c9a0ac02-f91a-4df0-90bf-c7782311b7ac;04/05/2025;07/05/2025;At;Pele;438.1;4;37.41;MG;App;Boleto;Sim
+73;6666a3b3-6681-4a25-9686-68375556e4b0;30/06/2025;04/07/2025;Ducimus;Pele;203.39;4;36.03;BA;Site;Pix;Sim
+74;823d8a98-a5ab-49dd-9c43-aac0acf2c8b8;29/06/2025;01/07/2025;Asperiores;Infantil;352.97;3;25.58;RS;Loja Física;Cartão de Crédito;Não
+75;1672e366-8c20-4042-8203-cb8e06e93c7b;29/04/2025;03/05/2025;Quis;Maquiagem;156.54;1;9.11;SC;Loja Física;Boleto;Sim
+76;64d5f096-0842-46e8-b369-a38b5b7f39c9;11/05/2025;15/05/2025;Cumque;Cabelos;191.18;1;33.96;MG;App;Cartão de Crédito;Sim
+77;16272ee3-3b6a-4942-9c7a-fa388f775208;30/03/2025;05/04/2025;Cumque;Infantil;89.96;1;16.87;BA;App;Boleto;Não
+78;d62b958e-be79-4e2b-9bc8-d7154e0aa8aa;06/03/2025;12/03/2025;Saepe;Cabelos;135.91;2;12.3;RJ;App;Cartão de Crédito;Não
+79;671cf6c8-f60c-4c96-b1ef-ddd404ffbb39;23/02/2025;26/02/2025;Ad;Cabelos;451.48;3;2.58;RS;App;Pix;Não
+80;4d170bdf-2053-4471-a357-7e6ddeebacaa;18/04/2025;22/04/2025;Occaecati;Cabelos;461.18;3;40.85;RS;Site;Boleto;Não
+81;7def236f-9a3d-4629-9cba-a7f1f0e1a479;05/03/2025;11/03/2025;Esse;Pele;391.66;2;48.4;PR;Site;Pix;Não
+82;aa794fde-da02-453e-a1ab-964fa8180149;27/02/2025;05/03/2025;Labore;Infantil;267.87;3;24.06;SC;Loja Física;Pix;Sim
+83;fa3dcd20-87b2-4ffa-8672-351baf448ba7;08/06/2025;11/06/2025;Recusandae;Beleza;59.79;4;10.09;PR;Site;Pix;Sim
+84;7635cbb3-b5e0-44b3-9631-39bf605ef7a4;25/04/2025;28/04/2025;Voluptates;Beleza;84.85;3;23.58;SC;App;Pix;Não
+85;9026a2f0-077b-43a7-9de9-9e34833ebf34;29/01/2025;06/02/2025;Atque;Maquiagem;61.25;4;36.08;RJ;App;Boleto;Não
+86;384b37e5-7b05-4d76-8f19-3933ef4b73a5;09/05/2025;15/05/2025;Eaque;Beleza;140.78;2;26.15;SC;Site;Boleto;Não
+87;eafb1c26-d85d-4eaf-9fc6-29cbc0c151b4;23/01/2025;30/01/2025;Tempore;Perfumes;381.38;3;28.87;RJ;Loja Física;Pix;Não
+88;c634e78b-b8c8-4696-8529-f76904dd6efc;07/04/2025;10/04/2025;Ipsam;Infantil;137.64;3;5.84;RJ;Loja Física;Pix;Não
+89;57dd4022-6740-4140-8158-2f4ca5b89bd3;30/06/2025;07/07/2025;Incidunt;Infantil;400.64;2;37.62;SC;App;Carteira Digital;Não
+90;d2052d08-3471-4a0a-9040-c08e2cc5bae2;22/06/2025;27/06/2025;Accusantium;Maquiagem;384.68;2;41.06;MG;Site;Carteira Digital;Não
+91;5c7f3927-23ef-42d4-8917-f99b25f1488c;19/05/2025;22/05/2025;Doloribus;Infantil;404.73;1;24.32;MG;Loja Física;Pix;Não
+92;1c37a65d-6363-46c0-8341-fc1b01d1a5e9;18/04/2025;20/04/2025;Doloribus;Maquiagem;311.27;4;27.14;SP;App;Pix;Sim
+93;4d658b16-648c-4d7e-b386-054ad464fcd1;08/03/2025;13/03/2025;Voluptate;Perfumes;247.14;2;30.75;BA;App;Carteira Digital;Não
+94;89b44782-d45a-43c8-975b-c29cf54ef46a;18/06/2025;21/06/2025;Beatae;Infantil;371.26;3;46.61;RS;Loja Física;Carteira Digital;Sim
+95;8123af98-721b-4648-8b54-4942248e3c39;04/06/2025;11/06/2025;Nostrum;Infantil;376.13;4;42.02;RJ;App;Pix;Sim
+96;474b162d-e5fd-43d3-a8da-063b9fbf7eed;21/03/2025;24/03/2025;Qui;Cabelos;117.57;3;46.04;PR;Site;Boleto;Sim
+97;744fcd24-ec1f-4e10-8cae-7ca11a0d2364;16/04/2025;20/04/2025;Dignissimos;Beleza;187.54;4;39.39;SP;Site;Carteira Digital;Sim
+98;53bdb8fa-dd0b-42d4-a558-fda3314bb7fc;01/05/2025;07/05/2025;Esse;Perfumes;461.67;4;11.23;SC;Loja Física;Boleto;Não
+99;f0380d7e-e67a-4b72-a3ea-8f625d767d32;13/02/2025;16/02/2025;Sint;Perfumes;226.89;4;15.57;SC;Site;Boleto;Sim
+100;a4ae1dbf-4f4a-45a3-85e9-3b48ebb4aeac;06/07/2025;10/07/2025;Cum;Beleza;488.5;1;7.43;SC;Site;Boleto;Não
+101;5b3f2605-7624-4cae-9dec-da485c9348ac;02/04/2025;07/04/2025;Similique;Beleza;382.48;3;39.99;RS;Site;Carteira Digital;Sim
+102;1014b800-089e-4840-b04b-7bc9662df5b5;19/02/2025;25/02/2025;Omnis;Perfumes;365.61;2;26.22;BA;App;Carteira Digital;Não
+103;bad9f60c-7785-4dd8-af97-d28db6c68121;26/02/2025;02/03/2025;Quos;Cabelos;435.04;3;37.66;DF;App;Pix;Sim
+104;8f5e34cb-db31-450d-8f6a-878bed19815e;10/03/2025;19/03/2025;Tempora;Infantil;122.17;3;0.99;PR;Loja Física;Carteira Digital;Sim
+105;05909332-1105-423f-8c82-2b41a29f3afc;19/05/2025;23/05/2025;Deserunt;Pele;76.74;4;49.44;DF;Site;Pix;Sim
+106;cde5285d-08ba-4b36-a892-589849ce708b;04/03/2025;11/03/2025;Nesciunt;Pele;327.62;1;10.39;BA;App;Cartão de Crédito;Sim
+107;866d2e70-6550-4f6e-b53e-c9b82c8bbea0;15/02/2025;16/02/2025;Ullam;Cabelos;304.03;4;35.2;RS;App;Boleto;Sim
+108;d8d4c01c-db2d-4093-865b-40f40088a47b;13/03/2025;18/03/2025;Suscipit;Beleza;420.41;1;20.47;SC;App;Pix;Não
+109;8821ba68-3d4f-4a84-85d9-0666d626d666;25/06/2025;01/07/2025;Mollitia;Perfumes;259.09;2;23.55;SP;Site;Carteira Digital;Não
+110;266f10fb-a8d5-40d4-a7a5-15460551ca9b;19/04/2025;25/04/2025;Natus;Maquiagem;333.18;2;49.22;SP;Loja Física;Carteira Digital;Não
+111;bea94863-c48a-4645-994e-0f4f4e94044a;20/01/2025;23/01/2025;Animi;Beleza;459.72;1;40.75;BA;App;Carteira Digital;Não
+112;b084d366-3529-4f61-869c-b9aa1bd92867;04/06/2025;08/06/2025;Animi;Maquiagem;80.09;2;6.84;RS;App;Boleto;Não
+113;597ddff8-bdb0-4323-9c64-75163956b06b;15/01/2025;23/01/2025;Laborum;Perfumes;273.89;4;17.69;DF;Site;Carteira Digital;Não
+114;1ccf9aaa-fae4-416f-a1c8-e9b34abcd6d2;28/03/2025;01/04/2025;Laudantium;Infantil;423.43;3;17.78;SC;Loja Física;Boleto;Não
+115;0f4b6fa4-484d-4860-83f9-04b972b256ad;10/05/2025;17/05/2025;Itaque;Cabelos;44.66;4;8.1;SP;App;Cartão de Crédito;Sim
+116;afb92453-90b3-49ed-8fd9-7a5bd743600b;21/01/2025;28/01/2025;At;Infantil;224.01;1;34.42;SC;Site;Carteira Digital;Sim
+117;049f81fc-179e-4ae7-b87d-968f5ec61357;20/01/2025;27/01/2025;Fuga;Beleza;73.04;3;48.1;PR;App;Pix;Sim
+118;971d1291-97f0-4ae6-8508-ff6a750f846a;30/06/2025;08/07/2025;Facilis;Perfumes;329.5;4;12.48;BA;App;Carteira Digital;Não
+119;9445d117-eb84-4014-bb66-1f792e880006;15/06/2025;19/06/2025;Amet;Perfumes;361.62;3;49.97;PR;Site;Carteira Digital;Sim
+120;d1aca1a8-5b4b-4ed6-a1dc-172432e267e1;06/05/2025;11/05/2025;Unde;Infantil;84.18;3;47.21;SP;App;Boleto;Sim
+121;9adbb69b-cffc-4c52-8bd0-d35c0e525436;18/06/2025;23/06/2025;Ab;Infantil;310.25;3;28.03;SP;Site;Boleto;Sim
+122;905c0236-dc47-4772-8819-4609765b25ce;11/01/2025;19/01/2025;Labore;Beleza;376.79;1;44.3;MG;Site;Boleto;Não
+123;11def9d5-16dc-421d-ad7a-9c0688d3cc4c;20/05/2025;22/05/2025;Similique;Infantil;438.95;2;0.01;RJ;Loja Física;Boleto;Não
+124;4ef5c2df-fd04-4e67-b5af-ea4b9b74d287;22/01/2025;25/01/2025;Illum;Infantil;34.46;1;38.36;PR;App;Boleto;Sim
+125;58be9a41-1cde-46c2-b27c-9fddbc7c42a3;08/04/2025;17/04/2025;Laborum;Cabelos;81.92;2;14.85;PR;Site;Cartão de Crédito;Não
+126;0372c2b0-c907-4a6e-8c04-d12d4adad301;11/05/2025;16/05/2025;Maxime;Maquiagem;81.45;1;33.98;SC;App;Boleto;Sim
+127;594dff7a-3dfb-4f86-846c-2a4a4dcb288a;01/02/2025;05/02/2025;Culpa;Maquiagem;443.19;2;30.04;RS;Site;Pix;Sim
+128;cf051bf0-2636-44a1-a8bd-017f927ca873;15/04/2025;21/04/2025;A;Maquiagem;420.4;2;11.53;SP;App;Carteira Digital;Não
+129;b95e697a-f4d1-40fc-b2c1-e170facd948f;10/03/2025;13/03/2025;Blanditiis;Beleza;194.56;1;31.49;BA;Site;Carteira Digital;Não
+130;e6299c36-89af-4a0e-9c67-70a4a7bb6e92;15/05/2025;20/05/2025;Adipisci;Beleza;260.86;1;7.69;SC;App;Carteira Digital;Sim
+131;275ebc66-b4e3-4c45-a4db-72ccec32cf39;02/07/2025;08/07/2025;Aliquid;Perfumes;442.41;3;13.65;MG;Loja Física;Pix;Não
+132;2beba768-ccac-45f9-aea3-b12f56e0c676;16/06/2025;19/06/2025;Fugit;Perfumes;184.65;1;27.54;SC;Loja Física;Pix;Não
+133;3011b805-272c-4638-88dc-313e5a5b17a9;23/06/2025;26/06/2025;Pariatur;Cabelos;370.01;2;26.63;RJ;App;Carteira Digital;Sim
+134;6598a7dd-2af4-4179-8c3b-83f7bdd1f948;19/05/2025;23/05/2025;Illum;Perfumes;444.97;2;29.62;SC;App;Cartão de Crédito;Não
+135;944b6ce2-81b3-4430-81aa-e4d5f466bf87;27/03/2025;07/04/2025;Tempora;Pele;357.81;2;5.29;MG;App;Boleto;Não
+136;9a43dbf7-cc07-42a6-961d-aeed9aecda4e;30/04/2025;06/05/2025;Vel;Pele;415.38;1;37.18;BA;App;Pix;Sim
+137;39be0a80-4372-4001-a621-8e5f141ebd5d;22/04/2025;26/04/2025;Fuga;Maquiagem;164.91;2;16.32;RS;Site;Boleto;Não
+138;63bb721c-cef3-4abc-b1f0-06141ac59514;20/03/2025;23/03/2025;Dignissimos;Perfumes;414.78;4;5.35;RS;Loja Física;Carteira Digital;Não
+139;2366906c-298e-431f-907b-b7987c52f09b;27/01/2025;04/02/2025;Dolores;Perfumes;61.88;3;8.32;SP;Site;Pix;Sim
+140;0056bda3-5e42-4f77-82ee-bcf12e873b46;13/06/2025;17/06/2025;Necessitatibus;Perfumes;430.63;2;48.67;RS;App;Pix;Não
+141;0f572a9f-a5e0-485d-88f4-20ea4a7a987e;11/03/2025;15/03/2025;Incidunt;Maquiagem;40.4;2;18.59;BA;App;Pix;Não
+142;53e1a833-0a74-45d7-a482-fad5ac1f0ef2;11/04/2025;13/04/2025;Alias;Infantil;104.7;2;49.86;DF;App;Pix;Não
+143;61867d82-ec1a-4656-95d2-6648fb7c3bd1;27/02/2025;04/03/2025;Maxime;Cabelos;68.72;2;11.5;RJ;Loja Física;Boleto;Não
+144;43e20f73-1854-4edd-9806-42f3a476cd5a;08/07/2025;11/07/2025;Sapiente;Beleza;373.7;3;20.99;MG;Site;Boleto;Não
+145;46082580-5cd8-42f1-b1be-f8375172e9de;29/05/2025;04/06/2025;Beatae;Pele;130.16;4;43.41;PR;Site;Boleto;Não
+146;17e3d89c-8da8-43fb-a272-7ba466310595;24/06/2025;29/06/2025;Nam;Cabelos;72.85;4;38.55;BA;Site;Pix;Sim
+147;4fbc34b0-0e54-4220-9aa8-663e3790433c;09/02/2025;13/02/2025;Occaecati;Infantil;462.8;3;9.27;MG;App;Cartão de Crédito;Sim
+148;d5f7f4e9-73d3-431f-b065-2ea8c8780dc6;21/04/2025;22/04/2025;Nulla;Maquiagem;311.21;2;34.28;PR;Loja Física;Boleto;Não
+149;6281fdbd-9c4c-4e5a-bc1b-f7fc4565df25;03/02/2025;06/02/2025;Cumque;Beleza;303.53;1;29.51;SP;Loja Física;Pix;Não
+150;ecbbe04d-a3ee-4928-ba0a-53af3f796e2d;11/03/2025;18/03/2025;Suscipit;Perfumes;338.78;1;43.01;DF;App;Boleto;Sim
+151;ed3749af-8a0b-43dc-94d5-064764d4c525;29/06/2025;02/07/2025;Quis;Pele;143.76;1;28.55;DF;Site;Cartão de Crédito;Não
+152;d279907d-ad9a-4745-90ae-8865a0e5e70b;19/05/2025;21/05/2025;Architecto;Perfumes;192.63;4;0.49;RJ;Loja Física;Cartão de Crédito;Sim
+153;250722f7-7bd2-44d8-b04e-2721ef67881e;20/04/2025;23/04/2025;Architecto;Cabelos;45.61;4;17.89;PR;Site;Boleto;Sim
+154;3175efe8-1061-4937-b4b6-92e3fabe47bf;21/04/2025;26/04/2025;Repellendus;Maquiagem;345.08;4;31.82;SC;Loja Física;Boleto;Não
+155;0059e036-f90d-44f2-9233-fe16170277fd;09/07/2025;12/07/2025;Deserunt;Perfumes;284.41;2;46.76;DF;App;Carteira Digital;Não
+156;4443541f-3ddd-441e-b86e-8c5c8920c5e2;19/02/2025;01/03/2025;Odio;Maquiagem;107.08;2;4.08;SP;Loja Física;Cartão de Crédito;Sim
+157;13e45745-c21d-450d-adaa-033e6210429e;06/05/2025;08/05/2025;Earum;Infantil;439.74;2;16.45;RS;App;Cartão de Crédito;Sim
+158;6b06378b-6b7d-49de-a254-c4f3e0ec7967;27/01/2025;31/01/2025;Praesentium;Cabelos;105.99;2;35.96;MG;Loja Física;Cartão de Crédito;Sim
+159;e7644b4c-19df-461f-818a-6eb23be5f636;22/01/2025;28/01/2025;Similique;Beleza;44.41;1;42.02;SC;App;Carteira Digital;Não
+160;455a738d-9e38-4073-8446-ffc6dea485dd;03/04/2025;11/04/2025;Ab;Beleza;271.58;1;21.93;RS;App;Pix;Não
+161;2d947a7f-da9c-4299-93de-b95a50827cd7;04/03/2025;12/03/2025;Occaecati;Beleza;322.79;4;41.8;RS;App;Boleto;Não
+162;f34e8413-b16e-49a7-9f8f-d3a0bcc39f2e;13/06/2025;19/06/2025;Et;Beleza;224.12;2;24.61;RS;Loja Física;Boleto;Não
+163;2649555d-9278-4533-876d-3c620df7d2de;30/04/2025;06/05/2025;Dignissimos;Cabelos;213.81;1;19.95;RJ;Site;Boleto;Não
+164;7cdbb605-4964-4b6a-8ec2-0aad2fabb230;02/07/2025;04/07/2025;Quasi;Maquiagem;311.4;4;48.49;PR;App;Cartão de Crédito;Não
+165;7abcb898-44c7-465e-ae74-6f9d25f68468;21/06/2025;24/06/2025;In;Infantil;274.29;2;33.47;PR;Loja Física;Carteira Digital;Não
+166;1aade64e-a338-46e3-b295-b421431671a1;15/05/2025;20/05/2025;Delectus;Maquiagem;208.3;3;36.82;DF;App;Cartão de Crédito;Sim
+167;47efba98-4e10-4fd8-982c-6dd4abc6eb84;13/06/2025;20/06/2025;Adipisci;Perfumes;156.78;2;6.15;BA;Loja Física;Pix;Sim
+168;5294fc16-e359-4e18-b347-71f3034542fa;28/01/2025;31/01/2025;Quibusdam;Beleza;114.6;3;15.81;RS;Loja Física;Cartão de Crédito;Não
+169;abf47e3d-4113-441a-907c-2a1d417385af;28/05/2025;30/05/2025;Ea;Maquiagem;493.72;4;34.3;SP;Site;Carteira Digital;Não
+170;8970521b-e9a0-4618-8ef7-898c9eb7f0a6;27/02/2025;28/02/2025;Cumque;Pele;487.36;3;22.74;MG;Loja Física;Carteira Digital;Não
+171;499bf1f5-5b74-4d7c-92fc-15d12101dcf3;11/06/2025;15/06/2025;Dignissimos;Beleza;174.73;4;46.99;DF;App;Carteira Digital;Não
+172;72a5e078-dd87-4841-8b51-9c267d73de48;02/07/2025;06/07/2025;Natus;Pele;140.24;3;8.86;RJ;Site;Pix;Não
+173;4a1b76a8-bdc0-4909-8f40-9e0983f2f1c8;17/03/2025;25/03/2025;Nisi;Infantil;467.55;2;45.93;DF;App;Carteira Digital;Sim
+174;79decd67-4235-4b77-9e63-c7dbf0342ec6;03/04/2025;10/04/2025;Consequuntur;Perfumes;179.51;1;20.35;RJ;App;Pix;Não
+175;d4fb9418-675a-449e-a121-407c291afb9b;06/05/2025;17/05/2025;Veniam;Beleza;414.38;4;14.84;SC;Loja Física;Cartão de Crédito;Não
+176;613ad731-4419-4596-aede-51d4de8db6fb;13/04/2025;20/04/2025;Incidunt;Perfumes;286.47;3;11.36;SP;Site;Pix;Não
+177;29d512cb-1b62-4be0-9443-2f6f1e3641a3;16/03/2025;21/03/2025;Optio;Infantil;435.77;4;42.36;DF;Site;Boleto;Não
+178;2221ee0b-9e49-40a7-b4b5-f125d6193d5b;25/04/2025;29/04/2025;Eaque;Maquiagem;145.65;4;30.4;MG;App;Carteira Digital;Não
+179;5d7b4815-6360-44a8-ac7d-6625d4e0be89;23/03/2025;28/03/2025;Non;Beleza;33.55;3;3.56;SP;Loja Física;Boleto;Sim
+180;f48b2389-26f1-4df3-b9c3-6c30058eed66;08/02/2025;13/02/2025;Consequatur;Pele;108.18;4;12.84;SP;Loja Física;Carteira Digital;Sim
+181;e10a84f6-403c-49ee-acc8-2c32872d4521;24/06/2025;30/06/2025;Libero;Cabelos;158.13;4;41.16;RJ;App;Cartão de Crédito;Sim
+182;5f236fab-5875-42d4-8637-d43e315684f9;03/07/2025;08/07/2025;Tempora;Perfumes;402.9;1;12.83;PR;Loja Física;Pix;Não
+183;c3204547-97ef-4f63-b298-62a5bc4ec57b;01/06/2025;06/06/2025;Asperiores;Perfumes;477.16;3;31.9;DF;Site;Carteira Digital;Sim
+184;cc36d86a-dd2c-48f5-a38d-e34061d02f3a;17/04/2025;25/04/2025;Maiores;Perfumes;150.15;4;13.74;RS;Loja Física;Boleto;Sim
+185;be695c2f-8a65-444f-bb74-9cfda0bdcd9f;11/05/2025;16/05/2025;Rem;Pele;305.71;3;11.76;SC;App;Pix;Sim
+186;fe36b890-1405-4d2d-9d0e-486719cf6c39;19/03/2025;24/03/2025;Maxime;Pele;126.91;3;11.6;PR;Loja Física;Carteira Digital;Sim
+187;d580a59d-24e4-4bb4-90ba-b5fb7378d2dc;03/07/2025;09/07/2025;Animi;Perfumes;231.25;3;36.23;DF;App;Pix;Não
+188;c5b35e53-52b1-4e9a-b647-d56c8ae30224;15/06/2025;16/06/2025;Autem;Perfumes;414.79;4;36.22;BA;Site;Boleto;Não
+189;25ccf47a-e6e8-4d13-813d-f5e0ac736474;26/01/2025;29/01/2025;Aliquam;Cabelos;450.27;3;20.06;SC;Site;Pix;Não
+190;2db526f5-bb6b-41fc-97e7-46f579733fdf;11/06/2025;17/06/2025;At;Infantil;330.88;4;44.0;SC;App;Boleto;Não
+191;7c9b2699-c21a-4e16-b704-14c6f3d30ad9;29/05/2025;06/06/2025;Libero;Beleza;248.65;4;29.02;MG;Loja Física;Pix;Sim
+192;5f6e3771-3f80-4818-b118-a10cc05dfda9;25/02/2025;02/03/2025;Odit;Perfumes;228.66;3;37.81;RJ;Loja Física;Carteira Digital;Sim
+193;06af2687-692d-4401-804f-7119bab7a381;15/02/2025;21/02/2025;Magni;Infantil;496.47;4;38.43;MG;App;Boleto;Sim
+194;d83e88d1-fd50-4afc-a083-0650316fdb1e;23/05/2025;26/05/2025;Quas;Perfumes;400.31;4;6.39;PR;App;Carteira Digital;Sim
+195;b9791a03-e7c5-47b6-a273-2ec8e6d90c66;16/05/2025;20/05/2025;Eos;Pele;153.66;2;19.05;SC;App;Carteira Digital;Sim
+196;7caab5ab-5924-4ba8-abbd-52360016fd8b;12/06/2025;19/06/2025;Fuga;Maquiagem;399.55;3;49.61;RJ;Site;Pix;Sim
+197;9b41e115-0bc6-4be4-be3e-0f0efd0f4403;22/06/2025;27/06/2025;Soluta;Infantil;442.65;2;36.07;RJ;App;Cartão de Crédito;Sim
+198;08d47e57-8bbe-48f2-a79e-76df0749431a;08/04/2025;12/04/2025;Tempore;Perfumes;102.28;3;17.3;MG;Loja Física;Pix;Sim
+199;5188f863-27b9-404d-bbf0-004fd841feef;04/02/2025;13/02/2025;Necessitatibus;Beleza;266.21;1;41.26;BA;Site;Pix;Não
+200;2d5b6c04-edfb-45e3-8b55-04a412665177;30/04/2025;04/05/2025;Delectus;Pele;67.58;4;48.29;SC;Site;Boleto;Não
+201;26dfdee1-4d01-40e3-8fae-8591909239d9;08/03/2025;12/03/2025;Nemo;Maquiagem;331.19;1;0.88;MG;Site;Boleto;Sim
+202;70319a8b-eee1-48de-9305-25841239b4cb;16/02/2025;21/02/2025;Illo;Maquiagem;257.76;2;2.89;SC;Loja Física;Boleto;Não
+203;ebdd66c4-8951-4405-b050-30f355104898;14/06/2025;18/06/2025;Voluptatum;Maquiagem;172.54;3;8.89;MG;Site;Carteira Digital;Não
+204;1924dba3-2398-438d-8065-1c38e12dfb40;28/06/2025;03/07/2025;Molestiae;Perfumes;111.66;4;26.35;PR;Loja Física;Cartão de Crédito;Não
+205;b54766ab-584e-405f-bbfe-35372570002b;25/01/2025;29/01/2025;Vero;Pele;202.85;4;24.08;MG;Site;Carteira Digital;Não
+206;8e12c0d8-df9d-40ae-a550-4d7ae6513747;25/04/2025;29/04/2025;Dolorem;Maquiagem;226.73;2;12.99;PR;Loja Física;Carteira Digital;Não
+207;52a15d6b-f48b-468d-a8c3-c6b471579994;15/06/2025;19/06/2025;Vero;Perfumes;143.36;1;9.94;PR;Site;Carteira Digital;Não
+208;f43a069e-c901-4182-a35d-831d5dc3c5b1;22/02/2025;23/02/2025;Corporis;Beleza;204.56;1;27.4;RS;App;Pix;Não
+209;c5a444b4-655b-43b5-94da-ad8c895243eb;05/02/2025;09/02/2025;Sunt;Infantil;182.6;4;32.59;PR;Site;Carteira Digital;Não
+210;281c8f9e-6300-441f-9441-529d69945f45;23/06/2025;29/06/2025;Est;Beleza;339.59;1;34.41;SP;Loja Física;Carteira Digital;Não
+211;ffb7cfb6-bda2-48bb-8361-d1c25f8519e9;08/02/2025;11/02/2025;Nemo;Cabelos;453.83;1;41.26;BA;Site;Boleto;Não
+212;6df09560-db7c-4b9e-ace6-77883855e5c1;08/04/2025;15/04/2025;Quas;Infantil;494.49;3;34.01;MG;Loja Física;Cartão de Crédito;Sim
+213;5b183045-988c-40ec-8d93-d6a97d41563d;26/01/2025;27/01/2025;Ipsa;Pele;366.67;1;40.11;DF;Site;Pix;Sim
+214;53250815-eb6a-4b44-bed3-0c0d571d1b82;09/07/2025;10/07/2025;Porro;Beleza;269.03;4;17.66;PR;App;Carteira Digital;Sim
+215;6e821d19-eaca-4289-b472-8d5e97b39e6a;13/02/2025;18/02/2025;Nulla;Cabelos;76.25;2;41.53;MG;Loja Física;Pix;Não
+216;1100882b-6c20-4400-8f3d-c16c6b142943;27/04/2025;29/04/2025;Quidem;Cabelos;271.89;1;14.77;PR;App;Pix;Não
+217;970c2c09-424f-410a-8326-bc5d3afb541b;19/03/2025;23/03/2025;Laudantium;Beleza;319.06;2;3.46;DF;Site;Boleto;Sim
+218;a0c0babd-00ec-4e7b-accd-40a63beca1a5;16/03/2025;22/03/2025;Aperiam;Infantil;258.43;4;37.4;SC;Loja Física;Pix;Sim
+219;6692129a-7498-413f-96c9-5a8becea0008;25/04/2025;30/04/2025;Ullam;Perfumes;204.92;3;27.5;SP;App;Cartão de Crédito;Não
+220;b0ee2025-d509-420e-8a12-0be2ee8bc601;24/03/2025;29/03/2025;Sapiente;Pele;35.98;1;14.3;PR;Loja Física;Carteira Digital;Não
+221;dfb39909-6bc6-4a45-9d0c-d82398b76826;04/07/2025;15/07/2025;Esse;Beleza;286.16;3;13.47;RS;App;Cartão de Crédito;Não
+222;9c3c7456-3fb7-459d-a147-427d110884e6;09/05/2025;13/05/2025;Dolorem;Maquiagem;483.61;3;25.29;RS;Loja Física;Cartão de Crédito;Não
+223;f2150274-be86-4874-8572-09b876c9d094;22/06/2025;01/07/2025;Ipsa;Infantil;387.73;3;8.04;PR;Loja Física;Carteira Digital;Sim
+224;e793ecaf-7d16-42bd-a343-1f8e86d24333;12/05/2025;20/05/2025;Voluptatem;Cabelos;378.9;2;30.8;SP;Site;Pix;Não
+225;5760132d-85ff-4da9-b9c6-1962a9c69d99;08/03/2025;12/03/2025;Ratione;Beleza;387.67;2;41.63;RJ;Site;Boleto;Não
+226;07d09027-d9bc-4b0d-b6e8-cf3c5e7f61bf;10/03/2025;12/03/2025;Iure;Perfumes;348.84;4;7.44;BA;Loja Física;Carteira Digital;Sim
+227;e9f170d2-919a-4a55-be52-39626f4e1015;21/01/2025;29/01/2025;Nihil;Perfumes;223.93;4;8.92;RJ;App;Carteira Digital;Não
+228;2df04141-3fcc-4579-b301-925dac151805;12/01/2025;13/01/2025;Dolorum;Beleza;115.22;1;4.65;BA;Site;Carteira Digital;Não
+229;461bf57b-40c9-4b86-985b-7328e89c3518;12/06/2025;17/06/2025;Veniam;Cabelos;293.51;2;24.33;BA;Site;Pix;Não
+230;de8aee7c-a6fd-46b7-928e-03196556d677;17/02/2025;20/02/2025;Nemo;Beleza;329.15;3;2.93;SC;App;Boleto;Sim
+231;681ea82a-97b3-426f-b88b-e52956b632e4;14/02/2025;20/02/2025;Cum;Perfumes;184.25;3;11.79;RJ;Loja Física;Boleto;Sim
+232;c33b4e73-be6e-412d-8c40-0c6f2235cbda;11/04/2025;16/04/2025;Rem;Beleza;111.54;2;31.81;BA;Site;Boleto;Sim
+233;3241bcca-7728-4010-8dfd-2a35e87b6eca;22/04/2025;28/04/2025;Architecto;Beleza;116.7;1;48.98;RS;Loja Física;Boleto;Sim
+234;d5b52a35-5453-4b49-9edc-fb7bdd3f1a21;23/02/2025;02/03/2025;Reiciendis;Pele;430.78;2;43.64;MG;Loja Física;Cartão de Crédito;Não
+235;54c72176-6da0-4078-8e77-6893b6694861;01/06/2025;06/06/2025;Qui;Cabelos;67.88;3;45.2;MG;Loja Física;Pix;Sim
+236;dda164c2-2f83-45cd-9d3d-2cf05aad9001;18/05/2025;20/05/2025;Tempore;Beleza;56.92;2;30.51;SP;Site;Cartão de Crédito;Não
+237;cd549328-bbd3-45e5-89a5-cfd813ea9184;11/02/2025;15/02/2025;Nam;Cabelos;56.82;2;1.81;BA;Site;Boleto;Não
+238;d49b04d0-5e48-4909-a14e-1bd202102b43;20/05/2025;27/05/2025;Nobis;Beleza;103.5;4;1.68;MG;Loja Física;Carteira Digital;Sim
+239;59f38e69-674f-41ab-a21c-e2a920526881;23/03/2025;26/03/2025;Accusamus;Infantil;223.21;3;4.32;RJ;App;Carteira Digital;Não
+240;271890d1-c97f-4078-85fb-2396bf302db8;15/06/2025;20/06/2025;Fugiat;Maquiagem;419.1;4;13.01;RJ;App;Boleto;Sim
+241;4e9ebe21-b813-4cac-8366-cb1f2de590b8;21/02/2025;27/02/2025;At;Infantil;486.84;4;48.37;PR;App;Cartão de Crédito;Sim
+242;4eed7742-328a-4b6f-a3ae-8fb4a8564cf3;31/05/2025;01/06/2025;Nam;Perfumes;368.4;3;12.55;SC;App;Cartão de Crédito;Não
+243;fee87a39-0527-46c5-91c1-f45f08a9d066;23/05/2025;29/05/2025;Reiciendis;Infantil;362.68;1;30.65;DF;Site;Cartão de Crédito;Não
+244;ddd178be-e767-42c6-aecd-633e6fb99b51;01/07/2025;06/07/2025;Rem;Maquiagem;75.85;4;20.59;MG;Site;Boleto;Não
+245;fbe3e4c8-6b3c-4276-98bc-54fcf63377d3;22/04/2025;27/04/2025;Sit;Maquiagem;54.42;3;24.86;BA;App;Pix;Não
+246;756a1d09-f82b-4de0-b3c8-232e5509eec7;19/01/2025;24/01/2025;Iure;Maquiagem;89.34;3;43.98;SC;Site;Cartão de Crédito;Sim
+247;257439fb-d227-4964-af09-758fbd9bbeb1;04/05/2025;09/05/2025;Accusantium;Perfumes;60.65;2;17.18;DF;Site;Carteira Digital;Não
+248;18f6a3e5-4a76-4b57-8c2b-a73bcf64bb6e;18/02/2025;23/02/2025;Sit;Perfumes;73.9;1;48.22;SC;App;Cartão de Crédito;Não
+249;01ff474b-c6b9-40d7-a944-76daa3243c9f;24/03/2025;31/03/2025;Maxime;Perfumes;460.09;4;26.01;BA;Loja Física;Pix;Não
+250;6d66218b-4866-49a3-a721-8e0d16ebf092;30/05/2025;05/06/2025;Explicabo;Cabelos;268.31;4;10.1;DF;Site;Cartão de Crédito;Sim
+251;8f5b742e-6911-48bb-846f-4ac89ae7e378;23/01/2025;28/01/2025;Distinctio;Beleza;69.23;4;5.88;SC;Site;Pix;Sim
+252;43c775ff-0bce-4f9a-b880-8c2cd17e1696;22/05/2025;28/05/2025;Quis;Maquiagem;498.63;2;21.37;SP;Loja Física;Pix;Sim
+253;e22e70f6-83ac-46a8-92d3-e4b328d44abb;17/05/2025;18/05/2025;Voluptatem;Perfumes;293.09;1;1.47;BA;Loja Física;Carteira Digital;Sim
+254;0a18cdf6-c4ff-44e8-a706-dbaf15a39534;10/02/2025;15/02/2025;Nobis;Pele;461.56;2;35.51;PR;App;Cartão de Crédito;Sim
+255;b5dfc387-64d5-4e2b-968f-3429e557fe08;15/02/2025;22/02/2025;Beatae;Cabelos;111.67;1;5.65;DF;Site;Cartão de Crédito;Não
+256;b661f0ff-2c2c-4f8a-ac86-81009212887d;07/02/2025;12/02/2025;Deleniti;Maquiagem;318.48;3;31.05;BA;Site;Pix;Sim
+257;811849a1-f725-4785-b6a5-6ff9d11a7704;05/02/2025;12/02/2025;Laboriosam;Perfumes;352.57;4;34.08;SP;Loja Física;Pix;Sim
+258;96e09620-26df-4665-81ec-6e1d88779f8a;11/03/2025;15/03/2025;Cupiditate;Cabelos;189.98;2;25.63;PR;Loja Física;Pix;Não
+259;b462c6b4-cf5d-435f-8348-7773db0d45e5;23/05/2025;25/05/2025;Minima;Pele;172.85;2;37.96;SP;Site;Boleto;Não
+260;9f053809-e097-4e44-8c39-804ee84e039c;19/01/2025;24/01/2025;Ad;Beleza;440.89;3;28.02;MG;Loja Física;Cartão de Crédito;Sim
+261;9bcdeb85-3d11-415f-898a-5b81a74a18d9;19/05/2025;24/05/2025;Autem;Infantil;489.1;2;23.95;RS;App;Carteira Digital;Não
+262;f283b632-1e0d-443c-8c87-1d554d1eeafa;18/06/2025;20/06/2025;Aspernatur;Pele;484.13;2;42.92;MG;App;Pix;Não
+263;3136a996-d723-4e17-8b98-d9f292fd0301;26/03/2025;30/03/2025;Tenetur;Maquiagem;482.52;3;27.96;RJ;Site;Boleto;Sim
+264;fb7b92e9-50b2-491a-8ba0-d9dbffb52ae2;13/04/2025;18/04/2025;Dolores;Maquiagem;62.12;1;12.09;SP;Loja Física;Cartão de Crédito;Não
+265;40fe8c29-5092-45c3-9871-0da04259d732;17/06/2025;18/06/2025;Eaque;Perfumes;171.59;3;3.71;SC;App;Carteira Digital;Não
+266;ee9f6728-3a2b-4217-b2d9-abc003017ba7;04/06/2025;07/06/2025;Quis;Pele;442.3;2;33.39;RS;Loja Física;Cartão de Crédito;Não
+267;fc41fbc6-c30c-4b34-976a-c0cedb9ba58e;24/04/2025;28/04/2025;Voluptas;Perfumes;403.45;2;21.46;RJ;App;Carteira Digital;Não
+268;655b005f-4f02-44ac-84f8-1e9566258b6a;20/05/2025;25/05/2025;Eaque;Beleza;259.54;1;4.69;RS;App;Cartão de Crédito;Sim
+269;da92617d-8b5e-4e7a-bb03-709605166430;31/05/2025;09/06/2025;Error;Cabelos;312.9;2;8.24;PR;Site;Boleto;Não
+270;60ce8c99-5a01-4ec9-8bdc-a7d2773f3155;18/01/2025;24/01/2025;Id;Pele;140.07;4;24.38;BA;Site;Cartão de Crédito;Não
+271;7658f368-9935-4436-9cca-886a6076ec58;13/02/2025;19/02/2025;Molestiae;Infantil;149.56;1;1.99;SC;Site;Boleto;Não
+272;a48541bd-dda1-45dc-8121-4ba4dd5193be;24/01/2025;31/01/2025;Voluptatibus;Maquiagem;240.31;4;10.35;RS;Loja Física;Pix;Sim
+273;f610df0b-f6a7-44ed-818b-75c729582963;16/04/2025;17/04/2025;Sunt;Perfumes;33.6;2;41.67;SP;App;Cartão de Crédito;Não
+274;bfbd0251-4549-474a-86fb-3ef44e3ff4b0;26/05/2025;31/05/2025;Recusandae;Beleza;50.86;1;19.85;BA;Loja Física;Carteira Digital;Não
+275;f647c9e6-d134-4b28-95b3-5961fd903949;08/06/2025;10/06/2025;Fuga;Infantil;192.25;3;28.74;SC;App;Cartão de Crédito;Não
+276;773e8934-b62c-4b57-a9a1-fa6199901250;29/01/2025;31/01/2025;Possimus;Beleza;241.78;3;13.74;BA;Site;Carteira Digital;Não
+277;6fc14815-0da5-4404-a4d5-0bcff955cd6a;14/06/2025;22/06/2025;Minus;Beleza;415.96;4;43.14;SC;Site;Boleto;Não
+278;7c36e149-d2d8-4bb5-9f17-42db66f61264;13/02/2025;13/02/2025;Ipsum;Maquiagem;367.26;3;2.98;SC;Loja Física;Cartão de Crédito;Não
+279;3913c488-9e3d-49b8-96b4-4964e4c32166;06/04/2025;11/04/2025;Velit;Pele;86.88;4;27.48;BA;Site;Pix;Sim
+280;7dce376e-ca9c-4416-ba5a-f107db86a8f6;10/06/2025;19/06/2025;Ipsam;Beleza;95.27;1;30.63;RJ;Loja Física;Boleto;Não
+281;e0021e15-00ad-4e92-afc4-12fea3e99446;05/06/2025;09/06/2025;Eos;Pele;280.96;4;41.0;MG;Site;Cartão de Crédito;Sim
+282;4644734b-b569-41b4-b293-e81a84a49e87;03/06/2025;07/06/2025;Repellendus;Pele;457.76;2;27.93;RS;Site;Boleto;Sim
+283;f8b3c8ac-0a7d-4d93-80a2-4c2106b016cc;23/02/2025;03/03/2025;Cumque;Cabelos;400.82;4;11.31;DF;App;Carteira Digital;Não
+284;a0677525-56ec-4740-aa3f-1ae882e9c0af;04/02/2025;09/02/2025;Quos;Infantil;35.79;3;30.05;BA;Site;Carteira Digital;Sim
+285;cece3a41-df22-4420-90ba-0776de71b610;01/02/2025;06/02/2025;Corporis;Perfumes;448.35;1;47.33;DF;Loja Física;Pix;Não
+286;f35c79c5-d970-4739-bddb-46f7498d8ff7;04/07/2025;07/07/2025;Temporibus;Maquiagem;211.36;3;20.48;SP;App;Cartão de Crédito;Não
+287;a55f51dd-49dd-49f3-bf37-2d0650b2bab1;27/06/2025;03/07/2025;Ex;Perfumes;353.49;1;48.6;DF;Site;Cartão de Crédito;Não
+288;c0f0ccf0-7302-4ec1-a043-93b91b33e0f4;13/05/2025;17/05/2025;Repellat;Pele;128.17;3;19.4;RJ;Loja Física;Cartão de Crédito;Não
+289;314f8d7f-b9c4-481e-a281-9b512c2655dc;10/04/2025;11/04/2025;Similique;Perfumes;385.42;3;24.39;SP;App;Boleto;Não
+290;25949c8a-6eda-421b-ae6a-7315e3688af5;03/03/2025;08/03/2025;Soluta;Maquiagem;497.58;1;49.2;DF;Loja Física;Boleto;Sim
+291;6400763b-83de-420e-8119-e952e6320f68;03/05/2025;09/05/2025;Quasi;Perfumes;290.24;2;8.42;RJ;App;Cartão de Crédito;Sim
+292;f69e7e6e-b047-41ac-b791-865dcacb9fd7;26/02/2025;04/03/2025;Aliquid;Beleza;348.37;1;48.32;RS;Loja Física;Carteira Digital;Não
+293;adc39a6d-7813-4901-b1d5-8337460fea19;01/03/2025;06/03/2025;Nobis;Maquiagem;259.78;3;39.12;MG;App;Pix;Não
+294;4f551b34-2bba-4e27-9e23-a233f9c857d1;26/04/2025;02/05/2025;Dolorum;Perfumes;430.7;1;27.15;SC;App;Cartão de Crédito;Não
+295;437ec9ab-20af-4d9b-bd4f-db08c4e9d03c;20/03/2025;28/03/2025;Provident;Beleza;403.28;4;23.34;BA;Site;Carteira Digital;Não
+296;c9a58238-e57d-4d41-91bc-e2a5e97b257b;17/05/2025;21/05/2025;Aliquam;Pele;384.67;2;29.44;MG;App;Cartão de Crédito;Sim
+297;e7cf9b2d-4e10-4b23-9c99-5264049d54ce;09/07/2025;13/07/2025;Enim;Pele;270.3;1;18.11;PR;Loja Física;Carteira Digital;Sim
+298;1a4a7a46-f9bb-4a02-b639-5894aba516cb;27/05/2025;05/06/2025;Est;Maquiagem;31.49;1;42.35;RJ;App;Carteira Digital;Não
+299;8887f36b-363f-406f-a6e6-a3bb0edb0d52;25/05/2025;31/05/2025;Mollitia;Cabelos;38.98;4;46.46;RJ;Loja Física;Carteira Digital;Não
+300;766e81e0-fa54-4a77-9f96-b574c41ec40c;08/04/2025;12/04/2025;Voluptate;Beleza;415.3;1;13.94;BA;App;Boleto;Sim
+301;936a09d2-191d-4ce7-9555-5588adfd832e;28/02/2025;02/03/2025;In;Pele;498.98;4;49.73;DF;Site;Boleto;Sim
+302;93fad631-352e-4d7b-8cae-0ca3ffd9c1a0;25/05/2025;26/05/2025;Quis;Cabelos;50.76;4;41.71;RJ;App;Cartão de Crédito;Sim
+303;6a28a249-d91d-4816-9841-2facf27f8cb9;09/04/2025;17/04/2025;Vero;Infantil;259.19;2;14.02;BA;Loja Física;Boleto;Não
+304;04745277-1afe-4c92-b2bb-0acbe3305924;19/05/2025;21/05/2025;Amet;Cabelos;288.09;2;40.41;MG;Site;Boleto;Não
+305;162748f2-02fb-41c2-ad23-f7497aff159b;28/03/2025;02/04/2025;Laudantium;Beleza;265.29;2;12.11;SC;App;Boleto;Não
+306;f3a61665-7f03-45b1-ae0a-d1c52bebcf7c;12/02/2025;17/02/2025;Necessitatibus;Maquiagem;218.61;3;46.46;PR;Loja Física;Carteira Digital;Sim
+307;17d2bef0-cae0-4474-ac06-4cbdbb10cb62;14/01/2025;21/01/2025;Non;Maquiagem;198.17;1;37.98;RS;App;Carteira Digital;Sim
+308;975edbd1-17e5-4eef-9581-0061e9d988a6;01/06/2025;09/06/2025;Quos;Pele;140.29;1;40.2;DF;App;Pix;Não
+309;6cd9bef2-6c0b-4c71-93d2-56e19bc83113;15/03/2025;20/03/2025;Quisquam;Maquiagem;163.61;2;41.19;SC;Site;Boleto;Sim
+310;75c5df0a-ba0a-47ed-a06a-532e5dab6b20;06/07/2025;10/07/2025;Ex;Pele;398.02;2;13.81;SP;Loja Física;Carteira Digital;Não
+311;25005ce0-a61b-42ed-8931-4c79e11132e7;27/05/2025;30/05/2025;Ut;Maquiagem;146.01;1;4.14;RJ;Loja Física;Cartão de Crédito;Não
+312;6dec95bd-ac13-4d50-a830-95c78bcf04a8;01/05/2025;10/05/2025;Ullam;Beleza;470.07;3;4.46;MG;App;Carteira Digital;Sim
+313;14e552ba-5659-4481-b0e5-807a4c52096d;08/02/2025;13/02/2025;Similique;Perfumes;108.47;1;43.78;RJ;Site;Carteira Digital;Não
+314;a78d2204-0020-4dd5-8e7b-8b1c0d501047;15/01/2025;17/01/2025;Esse;Beleza;347.77;1;14.9;SC;Site;Carteira Digital;Não
+315;c91d3f71-7479-4eb7-bfbc-0b29d98b2e6e;01/07/2025;04/07/2025;Doloribus;Cabelos;199.22;4;19.26;SC;Site;Pix;Sim
+316;f05ec3d2-32da-4642-b28d-7031681da117;23/05/2025;28/05/2025;Placeat;Beleza;433.71;1;20.83;BA;Site;Pix;Sim
+317;f3ac0da2-7dfe-440c-beda-fbd5b5ea6978;06/06/2025;13/06/2025;Unde;Cabelos;315.64;2;19.74;SP;App;Carteira Digital;Sim
+318;b58c466e-22ad-41ab-a126-0ef290623407;16/01/2025;20/01/2025;Amet;Infantil;350.63;2;9.96;DF;App;Cartão de Crédito;Sim
+319;b82a7016-943f-4b1f-b29c-5afd77e31ac9;04/04/2025;07/04/2025;Quaerat;Beleza;82.41;2;27.19;PR;Site;Boleto;Não
+320;fd1e7b04-0389-433a-be59-50c6d81d62a6;03/07/2025;10/07/2025;Explicabo;Beleza;376.01;2;26.55;PR;Site;Pix;Sim
+321;24afd4c0-8d92-4663-962c-db4b906139c9;23/04/2025;24/04/2025;Suscipit;Beleza;248.12;4;2.08;RS;App;Carteira Digital;Sim
+322;457fb4dc-240e-4396-81c0-8c24968363d1;11/02/2025;16/02/2025;Quam;Beleza;432.85;2;0.85;DF;Loja Física;Cartão de Crédito;Sim
+323;ae780901-dd19-4da2-854b-a977b9fa0b32;18/04/2025;22/04/2025;Assumenda;Infantil;167.86;1;36.95;MG;App;Carteira Digital;Sim
+324;8ea95c81-9d54-4e04-8775-dfbf7f417353;09/02/2025;17/02/2025;Temporibus;Maquiagem;419.99;3;39.02;BA;Site;Carteira Digital;Sim
+325;4ffdd946-ab58-4a14-8a1e-ad8cc444312a;28/01/2025;31/01/2025;Soluta;Infantil;137.27;2;30.16;RJ;Loja Física;Pix;Sim
+326;7e21962a-07ff-4619-b820-0c1d0495a284;30/06/2025;05/07/2025;Natus;Maquiagem;279.45;4;27.22;SP;App;Carteira Digital;Sim
+327;52206bbb-23f2-4216-9ace-5a984a2310db;07/07/2025;10/07/2025;Ipsum;Infantil;122.04;2;44.8;SC;App;Pix;Sim
+328;a70a2553-a112-4e95-b74d-e108496bdeda;28/04/2025;04/05/2025;Illo;Pele;332.12;1;17.26;RJ;App;Boleto;Sim
+329;2c06bfe2-8b39-43b2-9034-3f279aac6e17;28/04/2025;03/05/2025;Aliquid;Maquiagem;99.23;1;24.87;BA;Site;Cartão de Crédito;Não
+330;54bc1fe1-a359-4bf7-bdcb-ddd3f00c8023;12/06/2025;14/06/2025;Voluptas;Maquiagem;171.9;2;12.09;BA;Loja Física;Boleto;Não
+331;c40b5d26-cc60-435f-93b3-63bc5695ce4e;27/02/2025;03/03/2025;Placeat;Infantil;246.04;2;9.02;DF;Loja Física;Boleto;Sim
+332;072ea56c-632b-437e-a783-0a44fcb32065;11/03/2025;19/03/2025;Quod;Beleza;214.17;4;48.03;DF;Site;Pix;Sim
+333;65deacca-286b-4404-b8b6-5b5d6bdf4c93;22/04/2025;30/04/2025;Nemo;Beleza;64.35;2;0.65;RS;Site;Pix;Não
+334;6fc857d6-ec84-4d66-bb9e-6d14b1e85563;29/04/2025;02/05/2025;Officiis;Maquiagem;358.21;3;26.07;SC;Loja Física;Carteira Digital;Não
+335;c8d39623-182e-4a85-be4d-6d22161d86ce;11/04/2025;17/04/2025;Porro;Beleza;343.3;3;48.01;RS;App;Pix;Sim
+336;8bafabb8-8077-4bf9-abfa-b1c6934a4c2d;23/01/2025;31/01/2025;Beatae;Infantil;409.8;4;42.4;BA;App;Cartão de Crédito;Não
+337;6aef0351-83a7-417a-b986-51cfd2a84d2c;02/05/2025;05/05/2025;Ratione;Perfumes;256.02;1;0.02;SC;Loja Física;Carteira Digital;Não
+338;c05de01b-39b7-435d-914f-f913bca7fece;19/06/2025;27/06/2025;Qui;Pele;45.33;3;47.55;MG;App;Carteira Digital;Não
+339;86ce5b2d-e0c4-499f-807d-15daf984ddaf;23/05/2025;29/05/2025;Voluptate;Maquiagem;142.99;2;43.87;PR;Site;Carteira Digital;Sim
+340;3307396e-4c43-4d2f-91d4-43f15365b253;19/01/2025;23/01/2025;Repellat;Perfumes;479.47;2;43.34;MG;Loja Física;Pix;Não
+341;8aafe0ed-5563-4f84-bff3-774b46867c06;07/06/2025;14/06/2025;Quis;Beleza;195.93;3;45.19;RJ;App;Pix;Não
+342;30c98090-5016-4409-ac40-6809f8c43f02;28/01/2025;04/02/2025;Repudiandae;Perfumes;168.98;4;42.75;SC;Site;Carteira Digital;Não
+343;64f63841-6fa4-48c0-8b81-e34d3e387a05;15/05/2025;17/05/2025;Qui;Perfumes;472.17;1;23.0;SP;Loja Física;Pix;Não
+344;a80d51ba-721e-4939-b28b-cebba0df9112;26/03/2025;28/03/2025;Temporibus;Pele;371.57;1;38.56;SP;Site;Carteira Digital;Não
+345;81871805-ed04-4013-b07e-12991280117a;21/06/2025;26/06/2025;Illum;Maquiagem;47.66;2;27.34;MG;Site;Boleto;Não
+346;38527302-7180-4dad-b638-ef9959f7cb4e;23/04/2025;27/04/2025;Repellat;Beleza;124.26;3;15.21;MG;Site;Boleto;Não
+347;63425b32-edef-447a-99a9-28ea3b682d69;25/02/2025;27/02/2025;Maiores;Pele;372.79;4;15.5;SC;Loja Física;Cartão de Crédito;Sim
+348;b5971251-152d-4972-9227-bea7fcefdb6f;14/06/2025;22/06/2025;Consectetur;Infantil;88.92;4;45.1;DF;App;Pix;Não
+349;51cff473-98a4-49fb-bb8b-93ebfa26fb33;29/03/2025;05/04/2025;Dolores;Beleza;363.38;3;13.45;MG;Loja Física;Pix;Não
+350;238e3af8-bc49-4357-ae05-a9c2c23596ea;06/03/2025;13/03/2025;Mollitia;Pele;293.24;1;25.69;PR;Site;Cartão de Crédito;Sim
+351;4b350fe9-96cb-45a1-a60b-8766146e1b4b;17/02/2025;28/02/2025;Vero;Infantil;409.32;1;7.11;MG;App;Carteira Digital;Sim
+352;5a339659-8acc-4e07-9f58-ad943eafb54e;27/02/2025;02/03/2025;Officiis;Pele;389.42;4;28.1;PR;Loja Física;Carteira Digital;Sim
+353;9c5dd862-eb9e-4c07-9ba4-e3bac0a898dd;25/03/2025;31/03/2025;Veniam;Maquiagem;41.84;4;6.22;PR;Loja Física;Carteira Digital;Sim
+354;62f46668-8820-49dd-b286-dd845bf0e1c3;14/02/2025;21/02/2025;Recusandae;Beleza;284.15;1;25.24;MG;Site;Carteira Digital;Sim
+355;1dbcce40-ecb6-4e16-adfc-20e22ca06d0e;02/06/2025;08/06/2025;Asperiores;Infantil;436.69;4;33.86;DF;Site;Pix;Não
+356;8fed9e36-0ddc-4283-91c9-0e0623ab12fd;19/03/2025;23/03/2025;Expedita;Infantil;177.05;3;28.59;RJ;Loja Física;Pix;Não
+357;8023a7eb-a71b-4986-8705-250b22e1bcf4;30/04/2025;03/05/2025;Ut;Cabelos;54.36;1;0.99;MG;App;Boleto;Sim
+358;df718311-6faf-4056-a25f-8ebcd7df7089;14/02/2025;20/02/2025;Rerum;Cabelos;146.15;1;14.29;MG;Site;Carteira Digital;Sim
+359;dc09111a-e9cc-46b5-9650-6124e6ffdf73;22/01/2025;25/01/2025;Commodi;Pele;205.74;4;49.1;BA;App;Boleto;Sim
+360;eae0ce46-b2c6-4701-badd-65cff5a86a10;21/02/2025;03/03/2025;Itaque;Beleza;241.55;2;8.97;PR;App;Carteira Digital;Não
+361;c5b6520c-419a-4634-bb4a-752e46863abf;12/02/2025;18/02/2025;Quod;Perfumes;216.88;3;30.27;RJ;Site;Pix;Sim
+362;f87a909c-9e92-48a0-af7e-9556b3bf7ed4;25/04/2025;02/05/2025;Non;Perfumes;465.0;4;14.86;DF;Loja Física;Pix;Sim
+363;ec8b5740-9ca3-4c5f-82b7-1d0fb5c93b76;16/01/2025;20/01/2025;Laudantium;Maquiagem;37.1;3;18.66;MG;Site;Carteira Digital;Sim
+364;ebb427a0-2857-492c-bd68-8a840dc457ef;09/03/2025;15/03/2025;Eius;Beleza;111.82;3;5.3;MG;App;Boleto;Sim
+365;47f08c73-81d5-420c-8461-c8f4d1cce590;23/04/2025;30/04/2025;Aliquid;Pele;221.83;1;19.28;RS;App;Pix;Sim
+366;a3d7642a-f75b-4ca9-98cf-2074fb23cec5;05/06/2025;13/06/2025;Optio;Pele;264.08;3;21.68;RS;Loja Física;Pix;Sim
+367;c442a996-ed55-4724-a0f7-5894fa46046b;25/02/2025;02/03/2025;Nam;Infantil;370.02;2;49.81;PR;Loja Física;Cartão de Crédito;Sim
+368;afe964ac-5387-41db-892c-1cbedec29152;19/04/2025;25/04/2025;Explicabo;Maquiagem;53.51;4;0.69;MG;Site;Pix;Sim
+369;30cf7a52-1b3b-4fac-98f3-1ed9bcbffb20;28/04/2025;01/05/2025;Dolores;Beleza;59.39;1;21.24;RJ;Site;Pix;Sim
+370;017189e8-825a-4a73-ae74-20553d0bb2ec;01/05/2025;07/05/2025;Facere;Maquiagem;261.95;3;27.21;SC;Loja Física;Cartão de Crédito;Não
+371;50c8886c-86ba-4d50-9c45-57a33e1f79c1;02/04/2025;07/04/2025;Eligendi;Infantil;204.42;1;10.31;PR;Loja Física;Pix;Não
+372;e454b5ee-0767-4c55-bf11-2eda42537661;07/04/2025;12/04/2025;Cum;Cabelos;400.07;2;31.51;SC;App;Carteira Digital;Sim
+373;8e7e8120-bd75-4516-a409-f1b92ad3b4ec;14/06/2025;20/06/2025;Impedit;Infantil;417.63;2;39.25;SP;Site;Carteira Digital;Não
+374;fa26f365-da4a-4a0e-8f8a-067d157f5402;27/01/2025;01/02/2025;Ab;Perfumes;128.71;1;38.22;DF;Site;Pix;Sim
+375;a83d6c20-eb46-4dca-8d0c-134958091443;24/03/2025;28/03/2025;Impedit;Pele;63.13;2;47.13;BA;Loja Física;Pix;Não
+376;0e909740-d25f-4f3d-af03-86db6a27efb1;24/04/2025;29/04/2025;Tempore;Cabelos;464.54;3;25.75;BA;Loja Física;Cartão de Crédito;Não
+377;2f1f6d9c-33e5-4015-8cbe-dc7ff9139027;27/05/2025;04/06/2025;Ab;Cabelos;196.58;2;13.57;DF;Site;Pix;Não
+378;4f16ad56-2dd7-45dd-b57c-f696d5c3d468;17/04/2025;20/04/2025;Ipsum;Cabelos;419.57;3;9.69;MG;Site;Cartão de Crédito;Não
+379;2b9eee3b-9749-4bfc-a8b8-055b97b98841;18/03/2025;27/03/2025;Ut;Perfumes;356.16;3;24.47;SC;Site;Boleto;Não
+380;703bbe2a-6214-4da6-9ba1-9ecf71a39122;09/04/2025;16/04/2025;Commodi;Maquiagem;224.67;4;44.54;BA;Site;Boleto;Não
+381;7191f440-e8ea-4632-a856-67dda725b35d;09/05/2025;12/05/2025;Alias;Maquiagem;274.04;4;15.55;DF;App;Pix;Não
+382;bf4807f4-9e07-44d4-85f0-072c990dafd5;06/02/2025;09/02/2025;Eaque;Beleza;382.21;4;30.82;RJ;App;Carteira Digital;Sim
+383;549896bd-fec2-4840-b78e-d5af6839d849;01/07/2025;07/07/2025;Maiores;Cabelos;265.05;3;27.33;BA;Site;Cartão de Crédito;Não
+384;9f741e45-0d79-4269-a1d7-3b1665b2d944;03/06/2025;07/06/2025;Magnam;Perfumes;468.57;3;7.14;DF;App;Cartão de Crédito;Sim
+385;a44789b2-5ff7-4df7-971c-58e5308d8eee;19/03/2025;24/03/2025;Doloribus;Perfumes;227.06;1;30.57;MG;App;Pix;Não
+386;8848ecf3-529d-4ca3-aed8-5b2cf6aead1f;09/03/2025;19/03/2025;Libero;Pele;440.86;1;24.25;SP;App;Cartão de Crédito;Sim
+387;d5dbeb49-cbd5-4348-b840-3d34f9c5ed03;28/05/2025;04/06/2025;Tempora;Pele;212.28;4;0.78;PR;Site;Carteira Digital;Não
+388;844e9a26-72a8-4720-808a-37cba88c4014;26/02/2025;28/02/2025;Facere;Maquiagem;255.25;3;27.09;PR;Loja Física;Cartão de Crédito;Sim
+389;2393dea8-8ab0-4b99-8e53-9763631c03ae;18/03/2025;21/03/2025;Nesciunt;Beleza;206.47;1;49.46;SC;App;Pix;Não
+390;fb2d7c4d-52eb-45e4-86a8-455efa4f46fb;14/04/2025;17/04/2025;Veritatis;Cabelos;62.9;2;18.63;RS;Loja Física;Carteira Digital;Sim
+391;271be720-c161-4f6a-a920-b3621cec4a24;02/03/2025;06/03/2025;Consequatur;Beleza;363.12;3;18.96;SP;Site;Pix;Não
+392;7a1c1b22-7978-4b44-8ca4-cd8f78f7f5ea;03/06/2025;08/06/2025;Error;Maquiagem;52.87;4;38.33;DF;Site;Boleto;Não
+393;54525223-2735-48e0-9766-95142e1b7a7c;14/03/2025;22/03/2025;Vitae;Maquiagem;109.84;1;17.35;BA;Site;Carteira Digital;Não
+394;5960bf4b-abaa-4d1a-8d9b-f7c3f0de7eab;24/02/2025;28/02/2025;Voluptatum;Maquiagem;393.92;2;28.94;BA;Loja Física;Carteira Digital;Não
+395;f16d741c-0887-42f2-81b3-bdf52162a807;15/02/2025;20/02/2025;Ex;Perfumes;177.5;4;29.99;SP;App;Pix;Sim
+396;e78c8053-515d-446f-922a-27fc1ec892e9;11/03/2025;19/03/2025;Delectus;Perfumes;480.49;1;13.6;PR;Loja Física;Cartão de Crédito;Não
+397;699b50a4-70d8-43ee-9722-009d01f1f3a5;14/05/2025;20/05/2025;Sequi;Pele;356.48;1;32.74;RS;Loja Física;Cartão de Crédito;Não
+398;96810316-ab4e-4efa-9889-32bf772834f7;25/06/2025;04/07/2025;Illo;Cabelos;132.1;1;12.98;SC;Site;Boleto;Sim
+399;e550b08c-1fae-4fa4-93c2-5e3db1887744;22/05/2025;25/05/2025;Consequatur;Maquiagem;48.32;2;39.19;RJ;Site;Cartão de Crédito;Não
+400;9626277d-126b-4d52-9afc-29f35fd32fc4;02/05/2025;08/05/2025;Tempora;Pele;381.56;1;28.84;SC;Site;Carteira Digital;Sim
+401;5349560d-50ba-48b4-869f-2be78d6e38ed;02/04/2025;03/04/2025;Harum;Perfumes;499.48;3;46.68;DF;Loja Física;Cartão de Crédito;Sim
+402;7d43075e-8934-4287-ba67-d5d1eae4a826;27/02/2025;01/03/2025;Ex;Maquiagem;248.94;3;2.02;RS;Loja Física;Pix;Não
+403;7aa28c0c-e369-4b1c-a316-bfcfe77e221a;02/02/2025;04/02/2025;Reiciendis;Maquiagem;199.4;3;20.3;SC;App;Boleto;Não
+404;48f5dab0-25ec-4469-8016-864fe6b7b8e1;04/06/2025;05/06/2025;Reiciendis;Maquiagem;176.73;2;0.72;BA;Loja Física;Pix;Não
+405;967af70d-1e44-49f5-8ab7-cc02463f8a86;18/02/2025;24/02/2025;Quisquam;Maquiagem;323.57;1;20.12;DF;Site;Boleto;Não
+406;b0e015b9-7b1c-461b-b168-45dbee15b67b;03/02/2025;08/02/2025;Consequuntur;Maquiagem;302.05;4;29.84;PR;Site;Pix;Não
+407;74d5a63d-d402-44e4-a8cd-7f7dd458d2a4;22/02/2025;05/03/2025;Quas;Infantil;243.74;2;18.12;RS;Loja Física;Carteira Digital;Não
+408;66ec307a-ac3a-4c28-ae5d-95063921da6b;18/05/2025;22/05/2025;Similique;Perfumes;332.8;1;32.43;BA;Loja Física;Pix;Não
+409;190600f6-c927-4825-86e0-173fe4af9b71;31/01/2025;04/02/2025;Minima;Beleza;361.42;2;28.99;SC;App;Pix;Sim
+410;0643bc3a-cb5d-43cd-80b9-de6a9c62cfb1;19/05/2025;23/05/2025;Velit;Pele;110.57;3;41.91;SP;App;Cartão de Crédito;Não
+411;c03d063b-9a83-4075-a2bd-8067513e62dc;18/04/2025;25/04/2025;Possimus;Perfumes;463.01;2;37.03;PR;Loja Física;Carteira Digital;Sim
+412;e0418f87-1fbb-4085-a33b-e0f7e06f251b;23/02/2025;26/02/2025;Illum;Cabelos;138.47;1;30.34;PR;Loja Física;Pix;Sim
+413;37791b0e-ad60-490c-9671-2a281666ad0f;13/03/2025;21/03/2025;Sunt;Beleza;407.24;3;10.03;RS;Site;Cartão de Crédito;Sim
+414;8a55a2f5-8bc5-4322-b880-69916c47182f;16/03/2025;22/03/2025;Ea;Infantil;193.33;1;48.77;RS;Site;Cartão de Crédito;Não
+415;002e5d68-8002-4b62-9cb3-a0a6face5c21;18/02/2025;23/02/2025;Ex;Pele;129.07;2;23.75;DF;Site;Boleto;Sim
+416;a890ee6e-2bab-4166-87dc-5fefdf03e35e;09/02/2025;11/02/2025;Sint;Maquiagem;236.07;4;48.65;MG;App;Carteira Digital;Não
+417;b4544a53-7f11-4639-91f2-e9fbc0cc4a19;28/02/2025;07/03/2025;Nulla;Infantil;90.95;3;18.28;RS;App;Pix;Não
+418;615fd0e6-9398-4927-a962-e6c3fb13d381;26/03/2025;01/04/2025;Illum;Infantil;493.76;4;4.14;SP;Site;Boleto;Sim
+419;f66ce0fd-ce97-4cd2-bc89-bc7ec9ef11be;18/03/2025;23/03/2025;Recusandae;Cabelos;267.59;2;15.58;SC;Site;Cartão de Crédito;Não
+420;22b9ccc0-4acc-4e1b-92be-927d8935bbcf;10/04/2025;10/04/2025;Perferendis;Perfumes;111.89;3;4.11;MG;Loja Física;Pix;Sim
+421;535d0845-2c5f-4420-8974-cdf6fee207ff;15/03/2025;18/03/2025;Dolore;Beleza;226.75;1;9.54;PR;Loja Física;Cartão de Crédito;Não
+422;51112b61-df56-461e-a6be-7288ee02ca16;10/03/2025;15/03/2025;Quo;Pele;89.39;1;49.47;DF;Loja Física;Carteira Digital;Sim
+423;6f992d8f-90ca-49db-82bd-b024ad4820cf;24/04/2025;30/04/2025;Quas;Maquiagem;423.97;3;5.85;DF;App;Boleto;Sim
+424;e7a49271-1540-4dc7-bfec-32f2ffb03c18;18/03/2025;26/03/2025;Officia;Pele;376.03;4;24.48;MG;Loja Física;Carteira Digital;Não
+425;a70b619a-2a64-444f-a6d6-f7df7e148c30;07/07/2025;12/07/2025;Debitis;Infantil;298.31;4;8.27;MG;Site;Pix;Não
+426;6a0216ed-a889-4a82-9a77-b19c80582983;23/05/2025;01/06/2025;Illo;Maquiagem;471.28;4;4.35;RS;Site;Carteira Digital;Não
+427;11e2e1da-4293-457d-b41e-0a84b59774bc;13/06/2025;19/06/2025;Itaque;Maquiagem;440.81;3;29.45;BA;Site;Carteira Digital;Sim
+428;21d4737d-69bd-48c3-b7f6-63347c99647e;31/03/2025;04/04/2025;Mollitia;Cabelos;139.07;4;22.92;MG;App;Pix;Sim
+429;f465ab04-d981-4808-bae4-0ab6daf8470f;22/04/2025;26/04/2025;Veniam;Beleza;166.99;4;46.23;PR;App;Boleto;Não
+430;b4f95fc0-78ce-49fb-93a5-2f9ebdb29602;04/03/2025;06/03/2025;Iste;Pele;393.08;1;7.72;BA;App;Cartão de Crédito;Não
+431;3e75b7bf-efb8-41cc-bd6d-521f64d53551;28/04/2025;05/05/2025;Reiciendis;Infantil;44.32;1;2.27;BA;Loja Física;Boleto;Sim
+432;123d4bc5-8c1e-4550-91cc-0d4c69b6c8f3;25/06/2025;30/06/2025;Harum;Infantil;324.37;2;27.56;RJ;App;Pix;Sim
+433;2b7c26db-2aab-46ec-8267-e4d9508e1905;12/04/2025;15/04/2025;Distinctio;Perfumes;241.05;1;16.8;PR;Loja Física;Cartão de Crédito;Não
+434;e155d9e0-cd15-4cbb-b2c5-4c23bbbc179c;08/02/2025;15/02/2025;Expedita;Pele;56.1;3;6.27;RS;Site;Boleto;Não
+435;bcf445d1-e949-45c0-9116-37b54ce3b6bf;01/05/2025;07/05/2025;Neque;Cabelos;39.0;4;21.56;DF;Loja Física;Pix;Não
+436;e88cd250-6391-47d6-9b40-d7a1946e64e1;19/02/2025;22/02/2025;Sint;Infantil;186.14;2;33.39;DF;Loja Física;Boleto;Sim
+437;19cb3eb7-40b3-4a60-b2e5-9d2936239c40;23/01/2025;01/02/2025;Amet;Infantil;162.36;2;22.78;RJ;Loja Física;Carteira Digital;Não
+438;d18ed9df-f042-4869-bcd9-ff954e703448;02/07/2025;08/07/2025;Enim;Beleza;177.19;4;13.05;RJ;Site;Boleto;Sim
+439;67bfb43d-9825-4e43-8355-d3089cbe30ba;20/03/2025;26/03/2025;Dolores;Cabelos;73.41;4;35.51;BA;Loja Física;Carteira Digital;Sim
+440;b3662684-326b-4507-aef9-38aaed772e2e;06/06/2025;11/06/2025;Nisi;Infantil;58.25;1;37.56;RS;Loja Física;Carteira Digital;Sim
+441;c9620a81-612b-4150-bfa4-b68bacce28ff;08/04/2025;14/04/2025;Assumenda;Maquiagem;129.85;1;12.47;DF;Site;Carteira Digital;Sim
+442;9851847a-a66e-47f1-a463-00f403ceff14;08/05/2025;14/05/2025;Saepe;Maquiagem;236.83;2;9.23;SC;App;Cartão de Crédito;Não
+443;15d453d1-dedf-4e36-8df7-30d429f5b446;17/04/2025;22/04/2025;Iure;Infantil;165.33;3;47.49;PR;Loja Física;Cartão de Crédito;Não
+444;33f5e418-d506-4486-a9e0-007217e125e0;15/01/2025;20/01/2025;Labore;Pele;51.27;4;36.65;SP;Loja Física;Boleto;Sim
+445;14cd7675-d8d6-41af-9d3f-fd85ec1aaaef;25/03/2025;02/04/2025;Architecto;Beleza;418.48;1;39.0;SC;App;Cartão de Crédito;Sim
+446;05fd42a3-cdd0-4125-8e71-72c402d23c84;03/04/2025;05/04/2025;Molestias;Beleza;73.32;2;10.73;DF;Site;Pix;Não
+447;bfc7c872-3821-492d-be79-749467af6db9;16/02/2025;19/02/2025;Consequuntur;Cabelos;339.6;4;11.15;MG;Loja Física;Carteira Digital;Não
+448;41dbe836-a8a6-48d2-b613-1a007e0cb8e0;01/02/2025;08/02/2025;Laborum;Perfumes;397.56;4;17.38;DF;App;Carteira Digital;Sim
+449;620a7361-a471-4add-8e1d-a222d26ec414;25/04/2025;26/04/2025;Cum;Infantil;355.25;3;10.91;MG;Loja Física;Pix;Sim
+450;c3df1c1f-a6e8-4384-b973-b9cdbd2f384b;12/04/2025;18/04/2025;Delectus;Cabelos;451.07;4;18.13;SC;Loja Física;Boleto;Sim
+451;82e23dd0-86b3-4a90-81d5-9f848d7bcf3f;04/04/2025;07/04/2025;Dolorum;Beleza;249.35;2;45.64;SP;App;Carteira Digital;Não
+452;13499016-23a2-49f7-8e8c-067e330d77f9;07/06/2025;11/06/2025;Dolorum;Maquiagem;397.31;3;15.16;SC;Site;Boleto;Não
+453;cdfef43c-2656-4618-bee4-ec4789263d23;29/03/2025;03/04/2025;Quasi;Pele;253.53;4;12.49;MG;App;Boleto;Sim
+454;5a279244-1999-40b8-8e96-6544316d7739;02/02/2025;08/02/2025;Hic;Beleza;270.78;3;46.92;SC;Loja Física;Cartão de Crédito;Sim
+455;5db339df-7132-494d-b3d9-0cfc266590ac;09/02/2025;13/02/2025;Nobis;Cabelos;421.81;4;15.98;RJ;Site;Cartão de Crédito;Não
+456;f287f31e-7db5-455b-af32-c5027e4b6c4b;13/02/2025;21/02/2025;Consectetur;Maquiagem;165.36;4;7.84;SP;Site;Cartão de Crédito;Não
+457;aa959762-b143-4352-a125-dd67ebdf32fd;13/02/2025;16/02/2025;Alias;Perfumes;443.29;3;4.79;RS;Loja Física;Boleto;Sim
+458;4464a9e3-a704-4ec0-acab-f4c76c84a9b3;22/05/2025;27/05/2025;Molestias;Cabelos;248.37;3;31.77;PR;Site;Pix;Não
+459;ea610546-d7a9-4f5c-9575-407b18d57e2b;09/05/2025;17/05/2025;Tenetur;Cabelos;421.48;2;47.16;PR;Site;Boleto;Não
+460;b6a00afd-f231-4240-b752-616c020f4f7c;09/04/2025;13/04/2025;Optio;Pele;147.27;2;25.7;PR;Site;Boleto;Não
+461;8df28127-6182-4c25-bea4-f8ee53395106;30/04/2025;03/05/2025;Culpa;Maquiagem;157.84;3;35.64;DF;Site;Pix;Não
+462;87a84426-342c-4bd5-8514-23094bf8c338;11/06/2025;17/06/2025;Vero;Maquiagem;92.23;2;39.16;BA;Loja Física;Carteira Digital;Não
+463;7685d556-fc93-47a6-a6ee-8658c05c075a;23/06/2025;26/06/2025;Blanditiis;Cabelos;339.97;1;21.55;PR;App;Boleto;Não
+464;459dd85c-c037-41e4-9611-9fa7e196b7d9;05/02/2025;07/02/2025;Eaque;Cabelos;446.95;1;15.36;RS;App;Boleto;Não
+465;03114b81-d8a8-4abf-a8f7-39d71ddcfa9b;13/02/2025;16/02/2025;Corrupti;Beleza;226.53;1;39.86;SC;App;Boleto;Não
+466;c6d70ed6-d894-4fb9-b56e-650c7b3ab1da;27/01/2025;01/02/2025;Eos;Cabelos;187.74;2;11.69;PR;Site;Pix;Sim
+467;17e2c2ad-acac-49ad-8efc-7613f50893ee;31/05/2025;03/06/2025;Aliquid;Perfumes;138.79;4;13.89;BA;Site;Boleto;Sim
+468;95f403f0-e334-4a28-b064-a3f653341a14;11/02/2025;14/02/2025;Distinctio;Pele;34.55;3;1.43;SC;Loja Física;Cartão de Crédito;Sim
+469;dc2ac454-f0ce-4a04-80d8-63f8e77aad95;17/03/2025;18/03/2025;Debitis;Cabelos;400.06;3;12.39;RS;App;Boleto;Não
+470;7ae5bd74-0865-413b-bb86-22b06d415b61;29/06/2025;02/07/2025;At;Pele;59.09;3;35.47;SP;Site;Boleto;Sim
+471;726f7568-e719-4a94-b101-8c8448450567;21/04/2025;25/04/2025;Vero;Infantil;230.28;2;8.17;DF;Site;Boleto;Não
+472;6a264980-dd45-4edc-a703-4e9b93dcd9f6;24/05/2025;27/05/2025;Dolore;Cabelos;72.26;4;22.5;BA;App;Carteira Digital;Não
+473;8513d68a-81f5-4854-9184-6623d6ab9d15;26/05/2025;29/05/2025;Molestiae;Maquiagem;383.66;1;43.53;BA;App;Pix;Não
+474;3338ec4a-a2e0-4e39-a5f9-c390ef0bb220;31/01/2025;06/02/2025;Harum;Maquiagem;169.3;3;7.69;DF;App;Cartão de Crédito;Não
+475;9dcceccf-f6bc-4932-9f85-1c61275d1f67;05/05/2025;08/05/2025;Similique;Pele;349.46;1;41.37;RS;App;Pix;Não
+476;a62b3f67-5471-4e59-a139-ad15446248f9;27/05/2025;02/06/2025;Tenetur;Beleza;176.6;1;11.5;RS;Loja Física;Boleto;Sim
+477;7702ffad-6aff-4aad-90d7-c5cbbd1b47b9;02/05/2025;09/05/2025;Sequi;Pele;376.84;1;4.1;SC;App;Boleto;Sim
+478;e271c005-7b77-48eb-909b-1fd45332dcf3;11/06/2025;13/06/2025;Consectetur;Pele;238.93;3;49.42;RS;App;Boleto;Não
+479;cf345b3a-eb0f-4d5a-83c0-594b60ecf88f;18/05/2025;27/05/2025;Voluptates;Maquiagem;185.23;1;25.04;BA;App;Carteira Digital;Não
+480;70265402-c637-4e4a-bdef-a96a7e9639c3;02/03/2025;04/03/2025;Explicabo;Perfumes;161.1;3;27.81;MG;Loja Física;Pix;Sim
+481;00074dae-526a-4847-ac2b-d261885ae6f0;19/05/2025;22/05/2025;Tenetur;Cabelos;448.26;4;9.75;DF;Site;Cartão de Crédito;Sim
+482;f81411a9-e798-4b97-990d-70915596f4b2;27/05/2025;02/06/2025;Incidunt;Beleza;73.84;3;42.34;SP;Site;Carteira Digital;Sim
+483;14f3601e-9445-43d6-af25-437dfbe6a9d1;26/06/2025;03/07/2025;Et;Infantil;391.23;1;23.2;RS;Site;Boleto;Sim
+484;6ebbe1b8-3a88-40e6-97af-5dd22815f129;03/02/2025;09/02/2025;Et;Cabelos;87.34;2;2.25;DF;App;Cartão de Crédito;Não
+485;45901131-5876-4449-9d43-4e4cada856ee;30/03/2025;05/04/2025;Debitis;Infantil;68.35;2;42.1;DF;Site;Cartão de Crédito;Não
+486;1ecaea57-fc57-4649-860b-886a104a06a2;25/02/2025;07/03/2025;Voluptatibus;Beleza;41.6;1;3.47;SP;Loja Física;Pix;Não
+487;3e57fa2d-a789-426b-82ef-227939114236;11/01/2025;16/01/2025;Enim;Beleza;365.92;4;36.34;SC;Site;Cartão de Crédito;Sim
+488;ab7672ce-c752-46bc-8389-3a32af9fc903;23/03/2025;01/04/2025;Ducimus;Maquiagem;464.41;1;31.69;MG;Site;Boleto;Não
+489;733d7ef2-cb0b-442d-afd6-a91cf3e5027e;14/04/2025;17/04/2025;Velit;Pele;342.58;2;6.37;PR;App;Cartão de Crédito;Não
+490;3a4dd780-0e31-4dfa-bc9d-2642113fe1ca;31/01/2025;06/02/2025;Molestiae;Perfumes;333.1;4;38.99;DF;Loja Física;Boleto;Sim
+491;8371ad31-1b56-4e37-ad69-973016478deb;14/04/2025;15/04/2025;Reiciendis;Pele;364.7;1;27.72;RJ;Loja Física;Cartão de Crédito;Sim
+492;d61b667c-074a-4075-a0f7-e5bf389882b4;28/01/2025;03/02/2025;Tempore;Perfumes;411.76;3;19.0;SC;App;Carteira Digital;Sim
+493;a84d9ec2-2e00-458f-bf43-12cbc7e9c85e;17/04/2025;20/04/2025;Fuga;Infantil;178.01;3;4.05;SP;Loja Física;Boleto;Sim
+494;610decd0-13af-4b9d-b236-cd3eba0bdfa6;11/03/2025;15/03/2025;Reiciendis;Perfumes;448.92;3;40.62;SC;Loja Física;Pix;Sim
+495;e485d60e-e669-4140-839c-ed265010af6d;28/05/2025;02/06/2025;Ut;Maquiagem;92.61;3;36.93;SP;Site;Boleto;Não
+496;9160b545-4f1f-4d72-8671-2f8209b36f1a;26/03/2025;31/03/2025;Dolores;Pele;497.5;3;30.96;SP;Site;Pix;Sim
+497;7f47ff47-1b7f-4601-ac98-2428c31e0c57;20/05/2025;21/05/2025;Animi;Cabelos;163.73;4;24.6;BA;Site;Boleto;Sim
+498;8df42146-876b-4641-a3bb-2ed5fd256e78;06/02/2025;11/02/2025;Rem;Infantil;170.1;1;27.07;SC;Site;Pix;Sim
+499;0a8b4a55-79b3-45f1-a561-13e6da89a33b;14/03/2025;15/03/2025;Sapiente;Maquiagem;79.58;4;23.71;RS;Loja Física;Carteira Digital;Não
+500;2aca45e2-71b9-4518-903c-663dde6d69ae;10/05/2025;11/05/2025;Voluptatum;Perfumes;168.96;3;2.08;MG;Loja Física;Cartão de Crédito;Não
+501;3e5fbb0a-25a1-4ecb-8d9d-a4c923797357;26/02/2025;06/03/2025;Necessitatibus;Beleza;201.47;3;45.39;RJ;App;Boleto;Sim
+502;3f23889e-3b53-48ef-a92a-b44c04a1effb;17/06/2025;01/07/2025;Magnam;Pele;174.4;4;46.74;SC;App;Cartão de Crédito;Não
+503;23214828-6bcb-40c4-8b9c-266c640499b7;04/06/2025;08/06/2025;Sequi;Perfumes;59.16;3;3.84;DF;Site;Pix;Não
+504;b1c64248-7cc6-4e7c-87e6-94c636bf79f9;31/05/2025;02/06/2025;Recusandae;Perfumes;79.98;2;17.74;MG;Loja Física;Carteira Digital;Sim
+505;b7b5c89e-0a35-413b-89f1-fe8f78aa98da;15/01/2025;19/01/2025;Similique;Maquiagem;340.05;4;22.87;PR;Site;Cartão de Crédito;Sim
+506;bb9c75b5-3deb-40de-a70b-032dd2547e83;03/06/2025;08/06/2025;Iure;Pele;114.84;1;30.09;MG;App;Boleto;Não
+507;f7c0528a-75b9-4f12-833d-d5dcc0a9d78d;22/01/2025;26/01/2025;Voluptas;Pele;106.45;1;31.0;BA;Site;Cartão de Crédito;Sim
+508;a2cd9a4a-5ac4-424d-9efe-802023e9b476;04/05/2025;06/05/2025;Sapiente;Pele;200.91;1;28.85;DF;App;Pix;Sim
+509;17947260-0f07-45ed-8335-fb132c72fc0d;12/01/2025;16/01/2025;Aspernatur;Cabelos;456.77;2;8.6;RJ;Site;Carteira Digital;Não
+510;f181cb08-b2b5-4d38-94c4-08f3c41cbd9f;19/01/2025;27/01/2025;Distinctio;Maquiagem;124.36;2;23.84;SC;Site;Cartão de Crédito;Sim
+511;ee028c0f-a447-4996-9bfe-a698c1aafd58;14/02/2025;22/02/2025;Libero;Pele;369.37;4;40.08;RJ;Loja Física;Pix;Não
+512;f3f5c3c9-35c2-4643-9369-47705d5e77e0;04/03/2025;07/03/2025;Nobis;Beleza;450.68;2;40.48;PR;App;Carteira Digital;Sim
+513;6eeb9b49-e6e0-4cf4-95c6-e2c6879a3149;09/04/2025;12/04/2025;Voluptate;Infantil;412.76;1;28.34;RS;Loja Física;Boleto;Não
+514;24063ede-a7ae-4413-9af1-4a574e87ce2f;11/06/2025;13/06/2025;Dolorum;Cabelos;84.74;2;29.97;MG;App;Pix;Não
+515;15d663d3-194a-4397-b59b-cc6bdc04fe54;31/05/2025;04/06/2025;Consequatur;Perfumes;415.63;4;9.97;MG;Site;Boleto;Não
+516;395b673a-9319-40b4-a756-44435f254e37;11/03/2025;14/03/2025;Enim;Pele;469.63;2;39.22;SC;App;Carteira Digital;Sim
+517;9032d5d9-bac5-4110-add3-44f62650178b;25/04/2025;02/05/2025;Quae;Pele;116.87;4;41.24;PR;Site;Carteira Digital;Sim
+518;81d97e36-f314-4ea5-9875-064719878c92;09/04/2025;15/04/2025;Commodi;Perfumes;97.19;2;10.11;RJ;Site;Pix;Sim
+519;4b7a8d1f-e836-401b-9be4-ffcbf4563396;28/06/2025;01/07/2025;Dolor;Perfumes;257.15;4;13.53;BA;Loja Física;Carteira Digital;Não
+520;e4220ae2-fc5b-4b9c-bce2-96deaea6c6e3;14/03/2025;16/03/2025;Similique;Perfumes;42.13;4;28.69;BA;App;Boleto;Não
+521;82afc9b9-00bc-4b7d-92cd-fdcc8b65156c;07/02/2025;12/02/2025;Voluptatum;Pele;50.71;1;45.14;RS;App;Pix;Sim
+522;c67a7c66-9f5c-43e5-8426-d38dd8dbe0e4;01/03/2025;10/03/2025;Repellendus;Perfumes;349.86;4;17.91;BA;App;Carteira Digital;Sim
+523;3bb7d8b1-074e-4375-a69c-5c5182016470;25/03/2025;31/03/2025;Incidunt;Pele;31.97;1;2.77;SC;App;Carteira Digital;Não
+524;2518c3c8-85f0-4fa4-b66c-d1830ee50699;13/02/2025;18/02/2025;Debitis;Beleza;494.61;4;47.84;RS;Loja Física;Boleto;Sim
+525;8ee2c41d-d56e-478f-a5ee-16dc0738d28e;28/02/2025;05/03/2025;Veniam;Infantil;114.14;3;10.39;DF;Loja Física;Boleto;Não
+526;4c601a0a-4b89-41e4-8ce4-7728d2e26cbc;02/04/2025;07/04/2025;Debitis;Pele;334.31;3;49.63;RJ;App;Carteira Digital;Sim
+527;841a6430-2ad6-47ef-8635-72bd36faa1b5;14/06/2025;19/06/2025;Distinctio;Infantil;489.76;3;0.83;PR;Site;Pix;Sim
+528;a2db74d5-d01e-42be-8acf-7701f1b9d8a6;07/03/2025;12/03/2025;Qui;Infantil;61.95;2;2.98;SC;App;Cartão de Crédito;Não
+529;798be8d3-5202-474e-bc46-4f0a31af6121;18/04/2025;23/04/2025;Dignissimos;Maquiagem;498.37;4;31.64;DF;Loja Física;Carteira Digital;Não
+530;7cfa9759-9141-4459-9641-5a2e921e0b27;20/01/2025;23/01/2025;Quasi;Maquiagem;298.74;2;45.35;SP;App;Cartão de Crédito;Sim
+531;db78fab8-3cd1-48be-a334-18d32a13df43;24/01/2025;30/01/2025;Perspiciatis;Cabelos;309.08;3;12.19;BA;Site;Cartão de Crédito;Não
+532;2685e1f6-7957-4672-80a9-59744a9222cc;02/02/2025;06/02/2025;Natus;Pele;418.92;3;17.74;SC;Site;Cartão de Crédito;Sim
+533;c9fdb5ed-b06b-4009-be91-44b60dd67f43;03/05/2025;12/05/2025;Explicabo;Pele;152.83;1;3.05;RS;Loja Física;Boleto;Não
+534;622929ea-a30c-4326-8a9f-3cac17a1edbc;17/05/2025;22/05/2025;Recusandae;Pele;72.92;3;29.24;SC;App;Boleto;Não
+535;1964fa05-6b04-41ce-b088-4e187bee2f7d;22/06/2025;26/06/2025;Deleniti;Beleza;288.75;1;6.27;DF;Site;Pix;Não
+536;1fca995c-840d-425d-a2dd-251f27adb0c2;25/06/2025;29/06/2025;Consectetur;Beleza;306.4;4;29.85;RJ;Loja Física;Boleto;Não
+537;6b863d4a-a8da-423b-8bd5-effd95c835dd;29/03/2025;04/04/2025;Eveniet;Pele;123.36;3;19.24;BA;App;Boleto;Não
+538;0de2082c-0a15-454d-9151-7f6acc19830f;25/04/2025;30/04/2025;Necessitatibus;Pele;369.84;2;25.9;DF;Site;Carteira Digital;Não
+539;8003ebca-230d-4bdc-9c13-2ebb66736917;16/06/2025;20/06/2025;Recusandae;Pele;335.21;1;15.44;RJ;App;Cartão de Crédito;Sim
+540;33436712-5a21-4bac-b26c-2f91d9945811;01/03/2025;07/03/2025;Tempora;Beleza;446.38;1;46.59;BA;Loja Física;Cartão de Crédito;Sim
+541;87fc5683-ea56-4e77-9fb3-a16b3e38fa49;07/07/2025;12/07/2025;Necessitatibus;Infantil;451.77;1;0.05;RS;Loja Física;Boleto;Sim
+542;b19c63b6-9c73-40fc-aeb1-1874657b5014;28/06/2025;30/06/2025;Sapiente;Pele;225.64;1;11.95;SC;App;Boleto;Não
+543;e81bde50-0ab0-4b08-88ae-905491ba18bb;28/03/2025;05/04/2025;Numquam;Infantil;397.49;3;7.57;MG;Site;Carteira Digital;Não
+544;7734f7fe-7042-4b54-a7e3-7a8fba175722;07/05/2025;09/05/2025;Ipsa;Beleza;115.76;1;36.47;RS;App;Carteira Digital;Não
+545;75f02638-b9f4-4180-87a8-f32ffd3a6d02;30/03/2025;04/04/2025;Iusto;Beleza;380.25;3;19.91;RS;Site;Pix;Sim
+546;8ce54a85-a682-4e57-921f-b7d3ebd3ccb6;22/06/2025;23/06/2025;Voluptas;Maquiagem;463.11;4;45.46;RJ;Loja Física;Boleto;Não
+547;a75ba38e-6ca3-4017-a67e-92c1c89e8dc5;05/03/2025;12/03/2025;Tempore;Pele;59.34;3;13.37;RS;App;Cartão de Crédito;Não
+548;b1667b6b-c6a1-4d35-8d2e-64b5b0e77e8e;07/05/2025;15/05/2025;Esse;Infantil;458.55;2;47.25;DF;Loja Física;Pix;Não
+549;efdf5ac4-0200-454b-9bb8-4fada6c48337;25/05/2025;30/05/2025;Id;Maquiagem;176.67;3;8.86;SC;Loja Física;Cartão de Crédito;Não
+550;9d181b3f-4155-4e9d-a41d-a0dd6b1f3bb1;11/04/2025;11/04/2025;Magni;Pele;239.34;4;16.44;DF;Loja Física;Boleto;Não
+551;f368adf5-2d71-4b55-aa01-8f1e9f308130;12/03/2025;21/03/2025;Magni;Maquiagem;148.59;3;31.92;RJ;Loja Física;Boleto;Não
+552;251fc5d0-cd90-4bd7-921a-9829c1774e9d;05/06/2025;09/06/2025;Molestiae;Beleza;121.43;3;41.82;RS;App;Cartão de Crédito;Sim
+553;d7607c78-cfcc-451c-ad4c-d8a42c59145a;04/02/2025;12/02/2025;Accusantium;Pele;79.54;4;23.44;MG;Loja Física;Carteira Digital;Não
+554;c3b53686-7df5-4772-b8dd-1b476c8b7c1c;28/02/2025;04/03/2025;Optio;Maquiagem;317.64;2;44.32;MG;Loja Física;Carteira Digital;Não
+555;d3b2099c-a0af-472d-a3e1-718eafc78f03;08/06/2025;12/06/2025;Eos;Cabelos;146.93;3;43.17;DF;Loja Física;Boleto;Sim
+556;f022f51d-0ebc-4277-b5b5-fd20938b7f4e;22/04/2025;28/04/2025;Suscipit;Perfumes;150.15;2;17.2;PR;Site;Boleto;Não
+557;a47738e5-fcc1-48ac-aed6-48551b562b0b;03/03/2025;10/03/2025;Quaerat;Perfumes;64.48;2;43.46;SP;App;Cartão de Crédito;Não
+558;393be848-0e37-4fd5-b1f1-a9d3fb185430;11/03/2025;18/03/2025;Aliquid;Cabelos;160.13;3;37.61;RS;App;Carteira Digital;Não
+559;7c658659-5ec6-4408-8765-fb735d2c7342;06/03/2025;13/03/2025;Accusantium;Infantil;125.99;1;43.1;DF;App;Carteira Digital;Não
+560;ca1890ed-a1b5-4f5f-86b0-8b70e3d52f3d;06/03/2025;11/03/2025;Odit;Cabelos;374.44;1;36.2;RJ;Loja Física;Cartão de Crédito;Sim
+561;fbdd6360-5807-4d3d-bae7-e9cafc34b4d7;26/04/2025;01/05/2025;Vel;Pele;322.03;4;11.72;SP;App;Boleto;Não
+562;dc5f5cdf-4ac6-4007-9095-6910ab1209ee;05/02/2025;10/02/2025;Quibusdam;Cabelos;323.59;4;40.12;DF;Loja Física;Carteira Digital;Sim
+563;d726af57-b5ac-4f43-b1c5-71e0ad3c5c41;24/05/2025;30/05/2025;Eveniet;Maquiagem;395.68;2;1.88;RJ;App;Pix;Sim
+564;fd84944e-1693-4672-81ec-c93bc7877b68;28/05/2025;05/06/2025;Nobis;Infantil;281.29;1;0.35;DF;Loja Física;Boleto;Não
+565;8b6220cf-7d02-4094-85ec-ff7485cf108d;23/02/2025;28/02/2025;Dolor;Beleza;174.68;1;6.85;RS;App;Cartão de Crédito;Não
+566;8ee6e971-f7c3-4681-b1d6-24b0e7355d81;19/01/2025;22/01/2025;Ad;Pele;135.24;2;18.84;BA;Site;Carteira Digital;Sim
+567;eb6a09c0-90b8-4891-91b6-301461833d32;31/05/2025;06/06/2025;Possimus;Cabelos;169.9;1;15.73;RS;Loja Física;Pix;Não
+568;61c2b8eb-3a74-4b61-a344-3167ff8f9e4d;31/03/2025;06/04/2025;Vel;Cabelos;387.62;1;41.06;MG;Site;Boleto;Sim
+569;c19232b9-fca2-49f0-8821-3b34b93187a5;20/03/2025;25/03/2025;Sequi;Maquiagem;431.35;4;10.61;BA;Loja Física;Pix;Sim
+570;752cc7fa-3ed7-41fe-97bd-05d3e2acdbe4;14/06/2025;17/06/2025;Asperiores;Pele;407.4;3;9.96;PR;App;Pix;Sim
+571;5048f912-b491-4484-b5fd-33e1344787e1;22/03/2025;26/03/2025;Rerum;Cabelos;105.14;3;35.05;SC;Site;Pix;Sim
+572;cd523220-4032-4e0c-a3a5-e3c0905ebdaf;27/02/2025;05/03/2025;Aut;Infantil;218.7;3;18.87;MG;Site;Boleto;Não
+573;58aa3cdd-4b7d-4821-b4b7-005b2b781336;13/04/2025;15/04/2025;Asperiores;Cabelos;479.16;4;48.48;SC;App;Boleto;Não
+574;8e23089b-02f2-42d1-93c8-b50074b15918;06/03/2025;14/03/2025;Ducimus;Infantil;254.54;1;17.13;SC;App;Carteira Digital;Sim
+575;92bd5eee-2470-4fba-8bb8-89a2c753b002;16/04/2025;24/04/2025;Excepturi;Infantil;187.35;2;33.57;RJ;App;Pix;Não
+576;0549e747-fca0-44cd-9eb5-a2fe0387a0c6;09/07/2025;18/07/2025;Magnam;Perfumes;468.49;4;34.8;DF;App;Cartão de Crédito;Sim
+577;d8ac2fd5-cbab-4f1c-9ae8-e5c75b2b729f;18/04/2025;23/04/2025;Eos;Infantil;81.64;3;20.66;DF;Loja Física;Pix;Sim
+578;89db8d0c-a155-46b6-a03d-32d3ab2ab04a;12/03/2025;14/03/2025;Repellat;Maquiagem;300.62;3;2.79;SC;Site;Carteira Digital;Sim
+579;0699f17a-58bd-4895-923b-fdb49b0f18f8;09/07/2025;12/07/2025;Ullam;Perfumes;99.17;4;27.2;PR;App;Pix;Não
+580;f47ffef8-b913-458f-b404-ce7b476f6125;09/03/2025;14/03/2025;Qui;Maquiagem;82.4;2;48.29;MG;Loja Física;Carteira Digital;Não
+581;a63a6fe9-cf0d-48a4-abe9-835b554a1c2c;11/04/2025;17/04/2025;Unde;Infantil;108.13;1;29.97;SP;Site;Cartão de Crédito;Não
+582;ca270a4b-5fc4-432e-8039-39e1e188d966;14/05/2025;17/05/2025;Porro;Beleza;265.94;4;29.87;RJ;Site;Carteira Digital;Não
+583;c30e4ccb-edac-464b-b06b-670c47632d82;03/06/2025;06/06/2025;Rem;Beleza;136.68;3;4.36;SC;Site;Boleto;Não
+584;3077112e-9a08-4b20-840e-a166989d1dd5;19/04/2025;26/04/2025;Nesciunt;Cabelos;170.64;4;40.59;PR;Site;Pix;Não
+585;8de59018-3b7c-405d-8634-ee663793489c;27/06/2025;07/07/2025;Eligendi;Beleza;54.09;2;3.13;BA;Loja Física;Boleto;Sim
+586;47513b8b-93cd-455c-bd97-4e5749f549f6;05/06/2025;11/06/2025;Neque;Perfumes;83.04;2;14.6;PR;Loja Física;Boleto;Não
+587;380a6955-c79a-4ca4-ba9c-d9567f7575b8;20/06/2025;29/06/2025;Est;Infantil;362.42;4;34.03;RJ;Loja Física;Cartão de Crédito;Sim
+588;d8ad1a1d-8903-4010-9f0d-aa83fba3023c;10/04/2025;14/04/2025;Necessitatibus;Cabelos;198.24;1;33.17;DF;Site;Boleto;Sim
+589;ffff447d-da3b-4e1f-88f0-1d82e03e33d6;19/04/2025;28/04/2025;Deleniti;Maquiagem;334.78;2;24.86;DF;Site;Cartão de Crédito;Não
+590;65d5e1da-48b4-434d-8d58-21ae2bc5c827;13/06/2025;17/06/2025;Ullam;Beleza;120.12;4;42.73;SC;Loja Física;Boleto;Não
+591;a9cc789e-c29f-4568-b427-ecf9b16e130a;04/02/2025;09/02/2025;Illum;Beleza;232.26;2;36.99;RS;App;Cartão de Crédito;Sim
+592;bd2e741b-8d50-4989-83e7-7ef4a8b540cf;15/05/2025;18/05/2025;Perferendis;Beleza;273.5;4;16.1;BA;App;Pix;Sim
+593;c2e01da6-b7b3-4372-9965-bc6a9753f4c2;17/01/2025;26/01/2025;Deserunt;Perfumes;371.26;1;39.59;MG;Loja Física;Boleto;Sim
+594;fb735d67-50b0-408b-905e-aeb0b89494f0;25/02/2025;28/02/2025;Quia;Maquiagem;362.49;1;30.86;SP;Loja Física;Boleto;Não
+595;6e0612f7-1de5-41a4-961d-cd33f31bd629;03/03/2025;13/03/2025;Ratione;Pele;187.19;1;36.4;RS;Loja Física;Boleto;Não
+596;79ca6725-0228-41b3-be81-df534ec29831;20/01/2025;28/01/2025;Earum;Maquiagem;62.77;4;46.13;DF;Site;Cartão de Crédito;Sim
+597;655c4b41-e5b3-4285-a910-374ea86e2486;07/06/2025;10/06/2025;Nostrum;Cabelos;253.14;4;42.61;RJ;Loja Física;Carteira Digital;Não
+598;40013084-4ce1-485a-b5d8-dcd8daf0416a;10/03/2025;11/03/2025;Itaque;Perfumes;323.05;2;24.25;BA;Site;Boleto;Não
+599;2fc5e294-4517-403c-b0f7-f2836946ace1;04/04/2025;08/04/2025;Debitis;Infantil;257.24;3;39.15;RJ;Site;Pix;Sim
+600;1f6b6dad-5eb2-4988-b351-e23ed8c88913;27/05/2025;02/06/2025;Architecto;Infantil;491.16;1;5.96;PR;Site;Boleto;Não
+601;333d23b4-32d7-42e4-b510-d91d352d1195;17/02/2025;18/02/2025;Nam;Pele;422.06;1;35.95;SP;Site;Carteira Digital;Não
+602;370135eb-03c3-4edb-8099-07a959666332;30/04/2025;04/05/2025;Consequatur;Beleza;319.85;3;28.88;RS;App;Cartão de Crédito;Sim
+603;a27693bc-2182-4cf6-a37f-0434ba4b9b44;24/05/2025;27/05/2025;Iste;Pele;202.4;2;20.21;BA;Site;Carteira Digital;Não
+604;e82014c3-4ecf-4af8-a714-3420bfd8d2f4;28/01/2025;05/02/2025;Culpa;Pele;124.69;3;14.1;MG;App;Cartão de Crédito;Sim
+605;c8c14f48-552a-4b74-acf2-3c7e73812ce9;06/07/2025;11/07/2025;Quo;Maquiagem;286.81;1;15.87;RJ;Site;Pix;Sim
+606;d50e715f-3565-4dbf-93d8-6f2277e3fe71;01/03/2025;06/03/2025;Saepe;Beleza;280.43;1;30.16;SP;App;Pix;Não
+607;6a556208-a019-4c34-8894-e87620738bcd;24/03/2025;28/03/2025;Est;Perfumes;303.41;4;40.1;SC;Site;Boleto;Não
+608;d81d0325-8359-4182-bfd0-3f445d7e0041;15/06/2025;19/06/2025;Perferendis;Beleza;178.62;3;10.09;PR;Site;Boleto;Sim
+609;440d226b-7d29-476e-96cf-08ba82cbb96c;19/03/2025;26/03/2025;Odit;Maquiagem;319.81;1;49.78;BA;App;Cartão de Crédito;Não
+610;06f4b93b-8c22-4d74-b816-6ac7b20a2e18;02/06/2025;08/06/2025;Quos;Infantil;493.33;4;28.27;SC;Loja Física;Boleto;Sim
+611;0e0a9040-c10a-4831-81b7-e49920f001dd;11/04/2025;12/04/2025;Nemo;Cabelos;239.54;1;15.09;RJ;App;Cartão de Crédito;Não
+612;506692f7-4989-42db-8a11-58a1a1075395;25/05/2025;28/05/2025;Hic;Maquiagem;321.96;3;6.68;SP;App;Boleto;Sim
+613;dcbdb64a-5457-4e0d-98cd-a73773e978d9;10/02/2025;21/02/2025;Culpa;Beleza;405.06;2;15.52;MG;Loja Física;Cartão de Crédito;Sim
+614;e82ba3e6-f45c-4249-bca9-fae06d3a3d1f;02/06/2025;07/06/2025;Maiores;Perfumes;189.24;3;18.86;BA;Loja Física;Pix;Sim
+615;3f5849df-b588-4601-bda6-7816973cf67e;01/03/2025;07/03/2025;Placeat;Pele;385.41;4;24.46;MG;Loja Física;Pix;Sim
+616;ce2c18ef-b67f-4cdb-ab34-c7bff55162d9;07/07/2025;11/07/2025;Delectus;Beleza;165.94;1;8.4;BA;App;Pix;Sim
+617;55fd2759-4707-4d6e-b907-732557faae26;30/05/2025;02/06/2025;Minus;Pele;445.64;3;0.83;RJ;App;Carteira Digital;Não
+618;45f5a27a-5367-407a-ab36-95474ba1aa74;12/03/2025;15/03/2025;Nostrum;Beleza;305.09;3;0.37;DF;Loja Física;Boleto;Não
+619;db6e4557-d860-46ae-9029-9dca75af9984;23/01/2025;26/01/2025;Reiciendis;Cabelos;490.14;3;25.72;PR;Site;Cartão de Crédito;Sim
+620;ebb390a9-227d-4951-a79b-269213a80d93;03/03/2025;11/03/2025;Dolore;Infantil;385.76;1;4.16;SP;Site;Cartão de Crédito;Sim
+621;c426f48d-aeff-467a-ab83-25c1f2595ebd;18/05/2025;22/05/2025;Vero;Beleza;442.54;3;11.04;DF;App;Carteira Digital;Sim
+622;7fa844c7-2dad-4d74-af9f-9cb30cec1031;30/04/2025;03/05/2025;Ipsa;Cabelos;218.8;1;23.47;SP;Loja Física;Carteira Digital;Sim
+623;e4293b4a-93fe-4ace-aa10-549f130d4b0b;03/07/2025;06/07/2025;Qui;Pele;169.99;4;48.66;RS;App;Pix;Não
+624;8c323baa-42b4-4920-9b6c-2a456ab82466;13/06/2025;14/06/2025;Quam;Beleza;65.39;3;47.0;BA;Site;Cartão de Crédito;Sim
+625;4c783dbf-931d-446a-839a-1d67b6535039;01/02/2025;09/02/2025;Necessitatibus;Cabelos;75.45;4;48.07;SP;App;Cartão de Crédito;Não
+626;5b23cef6-bffd-4bf1-9871-2b2141a631fc;30/06/2025;03/07/2025;Eum;Pele;39.14;2;23.39;PR;App;Cartão de Crédito;Não
+627;d98f8883-e4f9-4fe1-b288-fd5c86b083f1;12/06/2025;15/06/2025;Veniam;Beleza;34.94;2;30.48;BA;Site;Pix;Não
+628;58919f58-827c-41e7-937a-4a741342a4e1;05/06/2025;14/06/2025;Molestiae;Infantil;467.57;4;22.64;RS;App;Pix;Não
+629;1e377bb6-0a31-426b-986a-af26e2420b0f;17/02/2025;21/02/2025;Alias;Cabelos;161.13;4;35.45;RS;Site;Cartão de Crédito;Não
+630;af04c34c-bf70-4ec4-b065-c0ce19b27a55;12/01/2025;18/01/2025;Magni;Beleza;64.94;4;4.35;RS;Loja Física;Pix;Sim
+631;3d2b725a-4d38-4fea-aa8f-9313ddcf22c5;05/06/2025;11/06/2025;Ullam;Pele;411.02;3;33.99;SP;Loja Física;Carteira Digital;Não
+632;fbe138f9-92fd-4537-9bc8-a9346fdb3d61;23/01/2025;27/01/2025;Itaque;Beleza;281.05;2;34.65;RS;Loja Física;Boleto;Não
+633;d9fb12ef-8b2a-495b-b8a8-b547dd00606a;07/07/2025;13/07/2025;Animi;Perfumes;489.4;1;2.89;SP;Site;Pix;Sim
+634;8de06a1e-a154-4be6-97d1-444bff4de6a2;03/07/2025;06/07/2025;Cum;Beleza;168.85;2;49.51;RS;Loja Física;Carteira Digital;Não
+635;821f13f6-f8cb-4440-a507-aa6791c94566;08/07/2025;13/07/2025;Suscipit;Perfumes;232.95;3;1.62;RJ;Loja Física;Cartão de Crédito;Sim
+636;f39c6373-1da1-4ac8-8536-f350775a06fc;20/02/2025;25/02/2025;Dignissimos;Infantil;382.78;2;13.04;SC;Site;Cartão de Crédito;Não
+637;989ee855-c1fa-42a4-b6d3-891cbfdc135b;05/05/2025;06/05/2025;Vero;Infantil;270.21;2;42.24;MG;Site;Pix;Não
+638;f6e22425-e811-47c4-832b-17acf78c39ad;29/03/2025;03/04/2025;Esse;Pele;465.14;2;18.6;SC;Loja Física;Pix;Não
+639;38ee1e68-3c24-4877-8b4a-e87f48d8db56;19/02/2025;23/02/2025;Ipsum;Perfumes;484.37;3;27.52;PR;Site;Cartão de Crédito;Sim
+640;560adb6d-af66-4c4e-a258-7a732b3d2e6e;26/02/2025;04/03/2025;Odit;Cabelos;155.38;4;36.82;RJ;Site;Cartão de Crédito;Sim
+641;45bcc141-ae1a-4743-954a-0e75f4e3439a;14/04/2025;15/04/2025;Adipisci;Perfumes;211.56;1;37.36;DF;App;Carteira Digital;Sim
+642;0add1447-8e08-443b-b947-85c647d17f52;13/02/2025;16/02/2025;Fugit;Maquiagem;389.01;3;20.56;BA;Site;Carteira Digital;Não
+643;37d2e5f8-b1e7-42d6-a72d-a56fb77cdb82;02/05/2025;09/05/2025;Possimus;Perfumes;348.13;2;24.6;PR;Site;Cartão de Crédito;Sim
+644;8e880301-17a4-46f9-9a9e-5868cccd1126;07/06/2025;15/06/2025;Maxime;Infantil;85.94;1;9.95;PR;Loja Física;Cartão de Crédito;Sim
+645;e6ef5d22-f2b2-4876-b5e0-5a29f0df9958;17/01/2025;21/01/2025;Quos;Pele;142.21;2;38.02;MG;Site;Boleto;Não
+646;a470f180-489f-431f-ad18-022749b39258;06/06/2025;07/06/2025;Vel;Perfumes;269.29;1;19.55;SP;Loja Física;Pix;Não
+647;400fd654-09ab-4307-b015-10de4ceaadec;18/04/2025;23/04/2025;Ad;Cabelos;155.39;4;21.61;SP;App;Carteira Digital;Sim
+648;0f7f2953-c9d9-4261-be70-3a2296c1d559;08/06/2025;10/06/2025;Reiciendis;Beleza;332.91;4;15.64;DF;Site;Boleto;Sim
+649;79cc5f32-99bd-4fa9-b58b-59d0cf1f9bae;22/02/2025;24/02/2025;Beatae;Beleza;222.32;4;8.8;SP;Site;Boleto;Sim
+650;ed6793a9-5560-41f8-9b65-9d23cd6f0b4b;03/05/2025;11/05/2025;Debitis;Perfumes;79.08;1;30.48;BA;Loja Física;Cartão de Crédito;Não
+651;6542f6e2-6ddb-46a5-adfe-36ccc591f918;29/06/2025;05/07/2025;Sapiente;Beleza;302.28;3;8.71;SP;Site;Boleto;Não
+652;93ccee7a-1636-40d1-af8d-fff7e7fc5004;15/02/2025;18/02/2025;Consectetur;Cabelos;241.16;1;15.51;RJ;App;Cartão de Crédito;Sim
+653;6984f639-4fd4-4419-a127-c60bb75b18d3;26/03/2025;30/03/2025;Incidunt;Perfumes;92.64;1;22.75;SP;Site;Carteira Digital;Não
+654;95014e50-d269-4321-a333-fa2441905e29;19/06/2025;24/06/2025;Officiis;Perfumes;236.17;1;41.72;SP;App;Carteira Digital;Sim
+655;b0697dbb-3307-49d3-8857-6c04ee1017b5;14/01/2025;18/01/2025;Autem;Pele;330.31;1;43.31;RS;Site;Pix;Não
+656;03dae2f3-3f70-4f80-99ba-65f6f6de4998;18/01/2025;23/01/2025;Aliquam;Perfumes;78.51;2;7.28;MG;Site;Boleto;Não
+657;59523180-acbd-4aa4-b286-ece861eb19fe;08/02/2025;16/02/2025;Itaque;Perfumes;82.83;3;10.99;SC;Loja Física;Carteira Digital;Sim
+658;8be326e0-c625-4841-830f-1ea2f191dd96;11/02/2025;18/02/2025;Ad;Beleza;298.92;4;13.75;PR;App;Boleto;Não
+659;da5abf56-7965-439e-bb71-022633ff5ca3;27/04/2025;03/05/2025;Quo;Cabelos;357.44;3;11.15;RS;Loja Física;Cartão de Crédito;Não
+660;db729bf3-b507-4893-a9dd-97085055c3ae;28/04/2025;30/04/2025;Odio;Infantil;73.14;3;32.32;BA;App;Carteira Digital;Não
+661;2aa65a86-fca8-4432-9015-9d83a8fd677f;20/03/2025;26/03/2025;Mollitia;Maquiagem;200.28;2;3.21;BA;App;Pix;Sim
+662;fab63f56-6d9d-4601-ac3a-d62046acd15a;09/02/2025;18/02/2025;Dignissimos;Beleza;459.52;3;23.89;BA;Loja Física;Boleto;Sim
+663;34561f61-a492-4a16-8dac-f1e96394fe0b;18/05/2025;24/05/2025;Aliquid;Pele;338.09;1;0.6;SP;App;Pix;Sim
+664;de5504c3-dc0c-41e3-8b83-c3c3b9558897;02/04/2025;11/04/2025;Reiciendis;Cabelos;470.7;4;12.16;RJ;Site;Boleto;Não
+665;3ae12029-9e6b-4e7c-841c-f43137072333;02/04/2025;07/04/2025;Alias;Maquiagem;52.92;2;30.29;SP;Site;Carteira Digital;Não
+666;09f490d3-b934-470c-af2e-2dc385541dfb;07/02/2025;15/02/2025;Ab;Cabelos;475.46;1;42.02;MG;Site;Pix;Não
+667;78ff2ebe-edb7-4e35-b0d6-fc7507f90b58;19/05/2025;20/05/2025;Laudantium;Maquiagem;299.2;2;49.92;SP;Loja Física;Pix;Sim
+668;3d40a332-5426-4cd1-bc58-01af8e2e8134;17/02/2025;26/02/2025;Minima;Maquiagem;354.03;1;6.31;RS;App;Pix;Sim
+669;1bbe2a3f-c75f-4416-96c0-f5b22684b40a;29/03/2025;04/04/2025;Deserunt;Perfumes;412.04;1;16.12;SP;Site;Cartão de Crédito;Sim
+670;703b160a-e2b7-47f2-bb8c-e0eda29c1d94;27/03/2025;03/04/2025;Vel;Maquiagem;39.01;3;47.9;RS;Site;Carteira Digital;Sim
+671;55c1e5e7-aac1-4eee-8842-d4e3df3793de;09/02/2025;11/02/2025;Molestiae;Pele;364.74;3;10.89;RS;Site;Pix;Sim
+672;f1574215-79ba-4d70-9c17-7e674a5ebb2c;10/04/2025;13/04/2025;Accusamus;Pele;462.94;4;25.03;SP;Site;Boleto;Sim
+673;78f22205-a673-4560-9b14-9d20a0769b11;17/05/2025;21/05/2025;Ea;Beleza;351.21;3;41.63;BA;Site;Pix;Não
+674;4cdfb717-f1c0-4963-b717-48390f1451db;03/07/2025;07/07/2025;Inventore;Maquiagem;492.45;1;17.73;RJ;App;Pix;Não
+675;4e1ac945-a201-49b8-98c3-ddadbb3d72cd;01/06/2025;06/06/2025;Eveniet;Cabelos;338.58;1;30.68;MG;Loja Física;Carteira Digital;Não
+676;d5caf890-5fc6-4326-85c2-f46359409f6a;24/06/2025;29/06/2025;Consectetur;Infantil;63.39;2;4.65;BA;Site;Pix;Sim
+677;566c8893-73b3-4fbd-9ab7-496205d9f109;05/05/2025;07/05/2025;Dolor;Infantil;403.92;4;21.17;MG;App;Pix;Não
+678;7bc92a77-aec2-45f1-b927-f7c71418e1de;08/03/2025;13/03/2025;Voluptatem;Cabelos;107.52;4;32.79;MG;Loja Física;Cartão de Crédito;Não
+679;9c29008a-bb6a-4e72-a0d3-11897bad1f2f;25/03/2025;30/03/2025;Culpa;Maquiagem;244.12;4;25.53;SP;Site;Pix;Sim
+680;dab17c64-6d93-4b85-8dd0-b55c5e9aa0a6;18/05/2025;21/05/2025;Libero;Infantil;33.22;2;49.0;RJ;App;Boleto;Não
+681;191b5c52-d248-4fd6-8f4d-c40ea0250b6d;26/06/2025;03/07/2025;Exercitationem;Infantil;326.4;3;10.89;RJ;Site;Pix;Não
+682;4b0e6d49-c927-4040-aeb4-46d9e395e93b;03/06/2025;05/06/2025;Natus;Cabelos;241.16;3;8.74;RJ;Loja Física;Pix;Não
+683;1d20bee6-ff41-4caf-a822-000e11e7adab;16/03/2025;20/03/2025;At;Beleza;458.74;1;8.13;PR;Site;Boleto;Sim
+684;b2b59ea5-a542-46c3-9d90-e38a6eb82cf5;18/05/2025;24/05/2025;Perspiciatis;Pele;452.13;3;32.61;PR;Site;Cartão de Crédito;Sim
+685;eaa6b4a1-028c-4914-b416-f5aface24790;13/01/2025;16/01/2025;Est;Perfumes;457.5;3;8.87;DF;Loja Física;Carteira Digital;Sim
+686;0d34b66b-0983-4fbd-a8e9-4311734658b0;22/04/2025;23/04/2025;Voluptatibus;Perfumes;66.09;3;33.14;DF;App;Pix;Não
+687;73a3634d-7c16-47c8-8ac0-85cd5634cd5d;01/02/2025;09/02/2025;Fuga;Beleza;77.07;4;39.09;DF;Loja Física;Boleto;Sim
+688;107ad3e2-5c9f-4e41-8c44-4771c0e3f6bb;27/01/2025;29/01/2025;At;Perfumes;217.73;3;31.48;RJ;Site;Pix;Sim
+689;a6f4491f-36ab-4ec0-bf53-8a0c2f1e9727;19/05/2025;24/05/2025;Vel;Pele;56.61;4;36.37;PR;Site;Cartão de Crédito;Não
+690;bbd79380-4d43-4e13-b9e8-5d1e91539e5b;16/06/2025;20/06/2025;Pariatur;Cabelos;317.24;4;8.7;SC;Site;Cartão de Crédito;Sim
+691;d296a646-4504-44c1-baa4-e5476d27208e;20/03/2025;23/03/2025;Praesentium;Pele;281.36;1;1.72;DF;Loja Física;Cartão de Crédito;Não
+692;f875b4e4-7df2-4693-889c-ffffcd64ba53;18/03/2025;27/03/2025;Sequi;Infantil;324.58;4;0.83;MG;Loja Física;Carteira Digital;Sim
+693;9de891d9-c68c-4e5a-88d4-cb68c9496258;28/05/2025;02/06/2025;Impedit;Beleza;106.38;1;9.62;RJ;App;Boleto;Sim
+694;22fc73cc-778d-4ec0-94c8-90c9bddf6786;07/02/2025;10/02/2025;Voluptatem;Perfumes;354.2;3;1.0;PR;Loja Física;Pix;Não
+695;e8e8f3de-0d61-4725-ba59-33ffd575e197;14/02/2025;17/02/2025;Libero;Cabelos;228.66;1;7.28;RJ;Site;Carteira Digital;Não
+696;58db313e-95e6-4a44-a6f8-dd8a7ab888b5;06/06/2025;11/06/2025;Delectus;Cabelos;236.88;1;41.5;SP;App;Cartão de Crédito;Não
+697;a361435f-d58d-4792-92fa-32ed65d687a5;20/02/2025;26/02/2025;Neque;Beleza;324.6;4;35.1;PR;Loja Física;Carteira Digital;Sim
+698;518fa8b9-5c26-45b5-bddc-c3c71a7670ca;01/02/2025;06/02/2025;Beatae;Beleza;30.35;2;29.31;SP;Site;Boleto;Não
+699;0dcc4c90-0e9d-407b-8f1a-45bf790075e1;03/04/2025;08/04/2025;Maiores;Beleza;477.56;3;46.74;DF;Site;Pix;Não
+700;4c3bf30b-3ab4-46e7-8486-ba2b3206889b;28/02/2025;06/03/2025;Nisi;Perfumes;172.13;1;8.23;DF;Loja Física;Pix;Sim
+701;79acbd06-a246-4d78-bb4a-352f21db81a8;15/03/2025;20/03/2025;Nihil;Infantil;492.75;2;17.94;SC;Site;Pix;Não
+702;1d860aa8-fea9-4c46-81de-a7ad4ecce4fd;19/04/2025;28/04/2025;Necessitatibus;Pele;223.96;4;3.93;MG;App;Cartão de Crédito;Não
+703;79ee4716-cf0a-4c27-a944-0009104da3a4;26/01/2025;01/02/2025;Tempore;Perfumes;142.33;2;2.08;DF;App;Boleto;Não
+704;3286ea9d-8040-4f4e-b96f-ae5e8cfc0906;04/05/2025;08/05/2025;Quis;Maquiagem;170.75;4;0.35;SP;Site;Cartão de Crédito;Sim
+705;5e436c2b-913f-4c80-af9d-b72e8b5ca00c;01/07/2025;06/07/2025;Laudantium;Infantil;51.08;3;31.65;BA;Loja Física;Carteira Digital;Sim
+706;7d9fbcef-0ed5-4d91-8bc3-0f52c1e42549;24/02/2025;01/03/2025;Suscipit;Maquiagem;274.51;4;24.19;SP;App;Carteira Digital;Não
+707;fe70f732-2f30-48c3-a0f1-d2fd5f808a45;25/01/2025;02/02/2025;Autem;Maquiagem;165.9;3;9.14;RS;App;Pix;Sim
+708;1e520992-ffaf-4242-9273-7d34948949aa;28/04/2025;05/05/2025;Quas;Perfumes;151.16;4;28.34;SP;Loja Física;Boleto;Sim
+709;bf6ef32a-7020-4d5f-850c-4d3763f6f3b2;07/03/2025;11/03/2025;Earum;Perfumes;245.99;3;40.91;MG;Site;Boleto;Sim
+710;40f93f6a-c48c-4f00-be5b-288b2191958b;12/02/2025;16/02/2025;Esse;Cabelos;415.04;1;8.62;SP;App;Cartão de Crédito;Não
+711;516e2e7a-1812-414c-8762-964b6e64f3fb;09/03/2025;14/03/2025;Voluptas;Cabelos;324.61;1;1.57;MG;Loja Física;Pix;Não
+712;a24de776-f40f-4fa1-bf0c-9cef8a310826;20/03/2025;26/03/2025;Tempore;Infantil;344.55;4;4.47;RJ;Site;Carteira Digital;Não
+713;4718512e-9c8b-4c36-b0e9-6d653e2dc314;08/07/2025;12/07/2025;Harum;Maquiagem;153.47;3;22.38;BA;App;Carteira Digital;Sim
+714;04f715c8-ac56-4fe7-81a2-9fabb79ed297;19/01/2025;20/01/2025;Commodi;Infantil;319.61;4;17.8;SC;Site;Carteira Digital;Sim
+715;03ef5b63-09b8-4f39-a540-a7ce4ba700e7;28/06/2025;04/07/2025;Excepturi;Cabelos;437.3;2;2.23;RJ;Site;Cartão de Crédito;Não
+716;3203a581-bed3-421f-90e7-969d13f94cf5;28/01/2025;01/02/2025;Iusto;Maquiagem;303.22;1;40.73;BA;App;Pix;Não
+717;1b38baae-034a-4fd6-b7e0-62cbb2cb4f0d;10/05/2025;20/05/2025;Cum;Infantil;219.65;1;46.73;DF;Loja Física;Carteira Digital;Sim
+718;9f6b3bc3-c20c-4cdd-bb3c-2dc54981835d;07/06/2025;16/06/2025;Voluptatibus;Cabelos;110.15;2;15.35;PR;App;Boleto;Não
+719;00c03055-9eb4-4d83-a21f-a1587a5bc450;25/04/2025;27/04/2025;Ipsum;Beleza;289.3;4;14.92;SC;App;Boleto;Sim
+720;2cc98e45-ea9a-412b-9f26-ad5cecd9b3fc;22/04/2025;26/04/2025;Voluptatibus;Infantil;159.7;1;10.3;DF;App;Pix;Sim
+721;4f31b067-7d04-415f-9175-1ba1ab0c9595;03/05/2025;05/05/2025;Fuga;Pele;394.66;1;36.14;PR;App;Pix;Não
+722;beb60e5e-80dc-48dc-bf26-3193fd46f07c;02/04/2025;11/04/2025;Quis;Infantil;162.44;4;8.93;RJ;Site;Boleto;Não
+723;d3f2af8a-bda9-4778-bb66-08c7416fbbff;13/03/2025;18/03/2025;Sint;Infantil;463.94;2;6.36;DF;App;Pix;Não
+724;1d0078db-e117-4474-b66e-5ca750f02e10;28/05/2025;01/06/2025;Dolores;Maquiagem;278.19;2;5.68;RJ;Site;Carteira Digital;Sim
+725;be2513e8-7df1-4e46-97b2-63321b1c99d8;13/02/2025;13/02/2025;Blanditiis;Perfumes;499.75;3;43.26;DF;Loja Física;Pix;Sim
+726;89b3cab9-c8a7-4183-82db-87f5fb4f1ce8;25/04/2025;30/04/2025;Nemo;Maquiagem;443.67;3;3.87;MG;Site;Pix;Não
+727;7e37df43-87c3-4c46-9e53-36e83482eabd;10/06/2025;11/06/2025;Mollitia;Cabelos;222.93;2;5.6;SP;Site;Boleto;Sim
+728;95258fc8-0e0e-4539-a96b-ee6ad6aa9431;21/06/2025;28/06/2025;Provident;Beleza;42.91;2;31.25;RS;Site;Carteira Digital;Sim
+729;26651f14-3cd6-46cc-b417-0d78724e5e5e;15/05/2025;19/05/2025;Blanditiis;Pele;118.05;3;10.14;RS;App;Pix;Não
+730;fcfccbba-df13-4066-9ad0-5d6e449986be;08/03/2025;13/03/2025;Nulla;Maquiagem;373.06;1;12.73;SC;Loja Física;Cartão de Crédito;Sim
+731;6b18e245-e77f-4608-bc8a-fb6254507523;04/05/2025;08/05/2025;Inventore;Cabelos;54.83;3;13.97;BA;App;Carteira Digital;Sim
+732;a16f43e1-84d9-4f10-9c91-41dbb128db0e;09/03/2025;12/03/2025;Sint;Perfumes;444.73;4;9.88;BA;App;Boleto;Não
+733;91434e02-c428-4993-b454-ac87d88f0df3;24/04/2025;27/04/2025;Necessitatibus;Infantil;485.95;4;12.05;RJ;App;Cartão de Crédito;Não
+734;a38a2cbe-cdd8-44cc-b25c-f681a146bff8;05/04/2025;06/04/2025;Officiis;Beleza;72.22;3;7.28;MG;Loja Física;Boleto;Sim
+735;bf4d4ffc-5bc4-4663-b7f4-ac10846c7d6f;11/05/2025;19/05/2025;Minus;Infantil;64.09;4;0.06;RS;Loja Física;Boleto;Não
+736;0898b3a1-403f-4ecf-93c8-9124ee4585a6;15/02/2025;24/02/2025;Minus;Infantil;355.48;4;17.54;SC;Loja Física;Cartão de Crédito;Sim
+737;31b4e278-b12a-4433-9328-9e991259e8bb;09/02/2025;14/02/2025;At;Perfumes;405.27;3;20.32;MG;Loja Física;Boleto;Sim
+738;a5dcba4d-4768-4013-9cea-706d156f610c;06/07/2025;09/07/2025;Molestiae;Cabelos;479.27;2;39.03;PR;Loja Física;Pix;Não
+739;c1675373-75c9-4035-91be-6348302f3a9a;10/03/2025;16/03/2025;Aspernatur;Perfumes;332.78;3;20.97;SC;App;Carteira Digital;Não
+740;42df4d37-5b37-4c87-897a-ac1986606ffb;28/06/2025;03/07/2025;Nisi;Cabelos;225.12;1;8.34;DF;App;Carteira Digital;Sim
+741;9f4b7eeb-0340-4b51-8d8c-bab49d72987c;16/03/2025;20/03/2025;Culpa;Beleza;188.61;4;5.78;BA;Loja Física;Pix;Não
+742;017a0869-fe87-4551-8c3f-2c88d2488d05;20/03/2025;26/03/2025;Blanditiis;Infantil;274.25;1;48.74;RJ;App;Cartão de Crédito;Não
+743;d7bba9fe-2de0-4eee-b03f-9d3a6088e63f;11/06/2025;17/06/2025;Dolorum;Pele;466.34;2;22.64;BA;App;Pix;Não
+744;82295003-5372-4aa1-95f2-a62ac4d3ef9e;05/03/2025;14/03/2025;Natus;Cabelos;210.46;2;28.44;MG;Loja Física;Boleto;Sim
+745;4fd0b956-def4-458f-bdba-7956cb9310cd;01/02/2025;08/02/2025;Ad;Maquiagem;438.01;1;14.69;SC;Loja Física;Pix;Sim
+746;3bc9ea48-1995-4768-a8b3-673a9ea2771e;30/04/2025;03/05/2025;Distinctio;Infantil;360.5;3;24.26;SP;Loja Física;Carteira Digital;Não
+747;863e8d54-491f-4d30-91c9-a5c27c0ea76d;04/03/2025;11/03/2025;Sunt;Pele;276.4;4;36.42;SC;App;Carteira Digital;Sim
+748;95792150-b49c-4745-a42c-a221f8f7e903;26/03/2025;30/03/2025;Vero;Maquiagem;69.65;2;30.91;RS;App;Boleto;Não
+749;da502861-844f-4bc2-a54b-4458874631f8;02/05/2025;06/05/2025;Modi;Infantil;476.85;3;34.13;BA;Loja Física;Pix;Sim
+750;1baa80c5-3df1-4ebc-af09-e498d75590f8;18/04/2025;24/04/2025;Aperiam;Infantil;89.08;1;9.5;MG;App;Cartão de Crédito;Não
+751;261fd909-2634-432b-a519-25b50319cf11;23/02/2025;01/03/2025;Eos;Cabelos;64.35;2;20.71;PR;Loja Física;Boleto;Não
+752;03eedfcd-4dbf-45fd-8849-1e85e9a01418;20/02/2025;24/02/2025;Quod;Infantil;99.94;3;46.04;RJ;Site;Pix;Sim
+753;ed3caca1-ce9c-45ea-a0de-1599c3009bf4;25/01/2025;31/01/2025;Cupiditate;Infantil;142.92;1;31.47;PR;App;Pix;Não
+754;bce0fef4-9875-4310-8146-f63a57a6a748;08/03/2025;12/03/2025;Perferendis;Pele;460.49;1;16.92;PR;App;Cartão de Crédito;Não
+755;a931b41b-579c-405c-bfcf-d732c78a6f09;04/05/2025;08/05/2025;Doloremque;Beleza;418.98;4;2.68;RJ;App;Boleto;Sim
+756;875d328a-6b11-4398-9a5b-c573f87d5cd5;05/04/2025;10/04/2025;Voluptatum;Infantil;268.93;2;37.13;SC;Loja Física;Pix;Não
+757;d2a5ce1c-d364-46bb-8536-1611e6f14c01;26/02/2025;01/03/2025;Libero;Beleza;382.58;2;7.03;MG;Site;Boleto;Não
+758;26a8a530-7272-453c-8a6f-8f8c844305e5;17/06/2025;27/06/2025;Ea;Perfumes;275.67;4;15.73;DF;Site;Pix;Sim
+759;68a98b03-2f94-4938-9471-1db6475bd2c8;09/02/2025;14/02/2025;Cumque;Beleza;123.6;2;44.3;DF;App;Boleto;Não
+760;688ae403-5cc7-4a16-91f3-5fdda24e6f00;26/04/2025;02/05/2025;Voluptas;Infantil;305.77;1;7.85;SP;Site;Carteira Digital;Não
+761;dfc4a3b6-0e01-4325-8ca5-55be225a6ab1;03/03/2025;14/03/2025;Unde;Cabelos;89.28;4;35.4;MG;Loja Física;Boleto;Não
+762;e2437076-99dc-4eed-a109-647957409959;20/01/2025;24/01/2025;Eum;Beleza;499.75;2;24.21;MG;Loja Física;Carteira Digital;Não
+763;f0e6f8e5-68a8-48ad-899e-edc23ad120c4;16/01/2025;21/01/2025;Iusto;Perfumes;456.13;3;3.12;SC;App;Carteira Digital;Sim
+764;a1b7a3fc-92bf-433b-afc1-ecf574c56695;02/07/2025;12/07/2025;Quo;Beleza;152.86;1;38.32;RS;Loja Física;Pix;Sim
+765;5f21ce8e-9033-48dc-9e12-516dc474f8a8;06/04/2025;15/04/2025;Ratione;Pele;308.47;2;17.99;RS;Site;Cartão de Crédito;Sim
+766;9af7d832-4430-452a-ab55-1dc04430b7aa;10/05/2025;14/05/2025;Similique;Cabelos;423.26;4;35.73;BA;App;Boleto;Sim
+767;e4070ac9-8c98-4606-9f56-f34f93e966d3;04/06/2025;09/06/2025;Illo;Perfumes;204.76;1;7.26;PR;Site;Cartão de Crédito;Sim
+768;05cc9550-c386-4200-ac2c-7d8c2f8e7604;03/03/2025;09/03/2025;Laborum;Pele;164.78;4;45.76;PR;App;Pix;Não
+769;c9498baf-4888-4ac1-b2e0-a8e74ef786a3;15/04/2025;22/04/2025;Ex;Infantil;427.31;2;10.47;MG;App;Carteira Digital;Não
+770;fbf8a2f0-610a-4921-b737-3a71fd64b834;25/05/2025;03/06/2025;Nostrum;Cabelos;198.95;1;27.73;MG;App;Cartão de Crédito;Sim
+771;643ef11a-2ed5-45d7-8957-bb8f1ab6bd89;14/01/2025;17/01/2025;Ipsam;Cabelos;147.67;2;24.98;MG;Site;Cartão de Crédito;Sim
+772;c679632e-7898-4358-8e84-f5babc7020b6;13/05/2025;18/05/2025;Occaecati;Beleza;273.94;1;4.31;BA;Loja Física;Cartão de Crédito;Não
+773;c02618e0-3ee5-4086-817e-6c580aad9853;13/03/2025;17/03/2025;Eius;Infantil;275.26;4;14.73;PR;Loja Física;Cartão de Crédito;Sim
+774;41b5427b-d843-46cb-a967-b8ffcf50e59c;28/06/2025;29/06/2025;Nobis;Infantil;164.05;1;2.65;RJ;Loja Física;Cartão de Crédito;Sim
+775;45e29a33-8895-4a17-8459-1077cf5a10a8;03/04/2025;08/04/2025;Quis;Infantil;102.78;4;40.94;RJ;App;Carteira Digital;Não
+776;ee08d5ee-497e-4105-89b1-67c5b4a6d099;01/02/2025;06/02/2025;Exercitationem;Beleza;109.63;1;3.89;PR;App;Boleto;Sim
+777;85b02fed-7441-42e7-bdd4-14f0915c59cc;12/01/2025;20/01/2025;Rem;Infantil;344.5;2;16.98;SP;App;Carteira Digital;Sim
+778;941a96d8-0476-4fe7-83b2-5eeb5ca8a1ee;02/02/2025;06/02/2025;Quam;Infantil;356.71;3;42.72;PR;Loja Física;Boleto;Não
+779;3f973e75-b078-4911-b768-781a7cfe52e5;26/02/2025;01/03/2025;Quod;Beleza;462.76;1;22.32;RJ;App;Cartão de Crédito;Sim
+780;07399bee-dcf2-43c8-ac2a-fd386cb6d180;26/05/2025;01/06/2025;Et;Perfumes;452.81;4;15.42;RS;Loja Física;Boleto;Não
+781;9ae9ee2e-c1c1-419d-9019-da716cb02203;24/04/2025;27/04/2025;Ad;Maquiagem;77.87;2;33.14;RS;App;Carteira Digital;Não
+782;1a41666b-8e3f-4505-89e2-ccb2852fad64;14/01/2025;19/01/2025;Laboriosam;Cabelos;396.36;1;40.92;SP;Loja Física;Carteira Digital;Sim
+783;ab0b62d0-3a84-41c4-a522-fdfbb8a93928;04/07/2025;10/07/2025;Labore;Infantil;342.91;2;47.39;DF;App;Boleto;Sim
+784;c6c6cfe7-20c3-46ed-8bc4-9f7066ec78a6;03/07/2025;06/07/2025;Dolor;Beleza;221.33;2;37.82;RJ;Site;Carteira Digital;Sim
+785;09bb42d1-5738-4920-9517-1a83cede07a7;13/03/2025;22/03/2025;Dolores;Beleza;436.55;4;20.44;RJ;Loja Física;Cartão de Crédito;Não
+786;95278768-4de9-4873-b375-e0b3f1e34569;18/03/2025;22/03/2025;Nam;Infantil;372.83;1;28.61;RS;App;Pix;Não
+787;cf78575d-3fa8-47f7-9e01-ceb1f3f7e0e8;18/04/2025;25/04/2025;Quae;Perfumes;91.25;1;32.32;SP;Site;Boleto;Sim
+788;5036cf3e-fae4-4ede-aecf-5b6c9d2b588b;05/03/2025;10/03/2025;Distinctio;Pele;441.0;2;26.38;BA;Loja Física;Pix;Não
+789;7257f6b7-1fd4-4ff6-b55d-1426f23c4e87;20/03/2025;25/03/2025;Consectetur;Infantil;205.15;4;34.09;RJ;Site;Cartão de Crédito;Sim
+790;cdc28509-411f-4e14-bbf1-0fabc185ea71;28/03/2025;02/04/2025;Numquam;Cabelos;256.68;2;33.09;MG;App;Pix;Não
+791;29bf6934-5e90-424e-a766-16876bd99361;13/01/2025;19/01/2025;Magni;Maquiagem;245.89;1;39.92;PR;Loja Física;Cartão de Crédito;Não
+792;a40fb9fa-8c83-4a2e-afa6-4831a0873b29;05/02/2025;08/02/2025;Laboriosam;Pele;264.15;4;35.45;MG;Site;Carteira Digital;Não
+793;bb9e4180-7e66-4e91-a332-96b26966e4e8;11/01/2025;16/01/2025;Ducimus;Perfumes;166.86;1;44.34;PR;App;Carteira Digital;Não
+794;d8438d36-a5e1-4968-bc42-36e3b0f7af7c;30/01/2025;04/02/2025;Quasi;Infantil;288.35;2;40.36;MG;Site;Boleto;Sim
+795;0b70d8f6-8acd-42ec-9cd2-2f96428b9f6b;23/03/2025;27/03/2025;Voluptates;Cabelos;294.69;1;8.89;RJ;App;Carteira Digital;Não
+796;e169901c-bd29-4f1e-a471-4f30770a0c32;28/04/2025;07/05/2025;Laudantium;Cabelos;381.37;3;20.39;SC;App;Cartão de Crédito;Sim
+797;8c7b13db-d4b8-4e8e-b530-7c7a5c3470f2;18/02/2025;21/02/2025;Repellat;Perfumes;30.67;1;8.78;DF;Site;Carteira Digital;Não
+798;db6eceed-2f0c-4119-8ed2-9e03489e00cc;24/01/2025;27/01/2025;Molestias;Beleza;311.15;4;8.2;RJ;App;Pix;Sim
+799;c4b943fd-7548-46d3-9641-0a15c0b8412e;12/06/2025;19/06/2025;Sequi;Infantil;438.91;2;2.49;RS;Loja Física;Pix;Sim
+800;6c684ca7-2d6f-4d56-85c9-a23b2e5fa4e2;21/02/2025;24/02/2025;Sit;Perfumes;176.98;2;2.74;RS;App;Pix;Não
+801;ac7bf689-2d51-4ca3-9548-133c5e8f9726;30/03/2025;08/04/2025;Magnam;Cabelos;418.17;2;6.25;SP;Site;Boleto;Não
+802;8bd2e965-4c08-49f7-8ece-0381970b1248;21/04/2025;24/04/2025;Provident;Perfumes;499.15;1;4.9;MG;Site;Carteira Digital;Não
+803;40a2980a-db87-4c7d-bc6a-ca639dca2f58;04/02/2025;06/02/2025;Quae;Cabelos;133.11;3;26.77;BA;App;Cartão de Crédito;Sim
+804;acdb7360-281b-4c71-9415-869842004d84;20/06/2025;26/06/2025;Soluta;Maquiagem;55.62;3;39.78;SC;App;Boleto;Sim
+805;bd19a5ff-7cb0-4ba7-b529-ad6d4413e978;27/02/2025;05/03/2025;Aliquid;Perfumes;274.55;3;38.51;DF;Loja Física;Carteira Digital;Sim
+806;63b52d71-3051-4151-8a33-c12d1c2c6c7b;01/07/2025;04/07/2025;At;Perfumes;88.48;1;20.25;DF;App;Cartão de Crédito;Não
+807;37b42f65-3caa-43ba-b42a-606dff159a7a;04/07/2025;09/07/2025;Neque;Infantil;202.32;3;33.52;SP;Site;Carteira Digital;Não
+808;18958b4a-d3d0-4579-8c2e-7394730a86ac;14/06/2025;22/06/2025;Sed;Beleza;268.53;2;3.59;SP;Site;Pix;Sim
+809;9ebcf220-4f61-4534-aaaa-c0aa518e8b48;05/03/2025;09/03/2025;Quasi;Infantil;183.69;3;36.77;DF;App;Pix;Sim
+810;a1978fc8-1dbf-421c-a231-439972a3d590;11/06/2025;18/06/2025;Non;Cabelos;366.11;1;8.98;DF;App;Carteira Digital;Não
+811;250dd909-22d1-4145-b259-617687abfced;15/06/2025;20/06/2025;Quas;Infantil;432.28;1;23.91;DF;Site;Cartão de Crédito;Sim
+812;f639bd9c-114a-42c4-a8be-7975bce0fa5f;05/04/2025;08/04/2025;Eaque;Beleza;34.6;2;16.08;BA;App;Pix;Não
+813;8a563118-9949-4582-a4f1-6db0ce7f18c3;05/04/2025;10/04/2025;Aspernatur;Infantil;269.69;1;25.53;RJ;Site;Boleto;Não
+814;248dec06-8a24-409b-bdf4-904a11d4be4f;06/03/2025;11/03/2025;Eveniet;Cabelos;406.72;2;21.09;SC;Site;Pix;Sim
+815;0460ce1d-d81e-4ef6-9d8e-0fe923637c11;27/04/2025;29/04/2025;Esse;Cabelos;332.38;3;38.26;RJ;App;Boleto;Não
+816;a1f369cd-fc76-42fd-8d20-955c863bea14;10/04/2025;15/04/2025;Nobis;Cabelos;57.36;4;10.77;BA;Site;Carteira Digital;Sim
+817;ac585063-0fb3-4b59-ac92-c0d1baff0bb3;11/06/2025;16/06/2025;Tempora;Infantil;469.17;4;8.61;RJ;App;Carteira Digital;Sim
+818;04c89806-6426-4ef0-83a4-ba905ff8ba8d;18/04/2025;27/04/2025;Inventore;Perfumes;104.69;4;47.38;SP;Loja Física;Cartão de Crédito;Não
+819;ba127c82-5937-499b-a248-3afd62f24ad6;14/05/2025;22/05/2025;Quae;Maquiagem;296.17;1;44.11;DF;Loja Física;Boleto;Sim
+820;d35022e2-bcd6-46f3-a3cf-428ace74a7de;08/02/2025;14/02/2025;Blanditiis;Infantil;250.03;4;17.99;MG;Site;Carteira Digital;Não
+821;64a0f745-bd12-4721-af5c-0c646e2c7e1f;05/03/2025;14/03/2025;Vel;Maquiagem;426.0;1;42.52;SC;App;Boleto;Não
+822;88c0564b-d552-46ea-be50-ed8819b1b732;04/02/2025;06/02/2025;Debitis;Perfumes;301.22;2;20.67;BA;App;Carteira Digital;Sim
+823;3b1ae04a-d765-43c8-b36e-155d03e0447e;06/05/2025;11/05/2025;Aut;Cabelos;121.24;4;36.06;SC;Loja Física;Pix;Não
+824;e1897d60-2968-4f00-a958-101282c3dabb;27/02/2025;03/03/2025;Minus;Infantil;408.27;2;1.55;RS;Site;Boleto;Não
+825;588b31c0-8fd0-4254-9ad7-94bcc2c4a830;23/02/2025;26/02/2025;Earum;Infantil;466.4;2;20.22;BA;Loja Física;Boleto;Sim
+826;8c407ed0-e316-47e9-8a35-a5afed6bd40a;02/05/2025;08/05/2025;Atque;Maquiagem;354.31;4;18.84;BA;Loja Física;Cartão de Crédito;Não
+827;4ade34df-a608-4914-8ad3-d9e6ffb02dd5;15/04/2025;16/04/2025;Hic;Maquiagem;143.38;4;12.44;DF;Loja Física;Carteira Digital;Não
+828;f93d57c5-d2ab-4d72-96cb-6e18d5fd4a9e;08/04/2025;09/04/2025;Eveniet;Perfumes;315.13;3;25.21;SP;Loja Física;Cartão de Crédito;Sim
+829;42b24262-2e51-442b-a305-686a9e008d99;19/01/2025;22/01/2025;Repudiandae;Perfumes;381.4;2;37.0;MG;Site;Cartão de Crédito;Sim
+830;c1c43c86-ee0e-4777-9691-4e6bc9f41c1d;11/05/2025;15/05/2025;Veniam;Pele;374.37;4;19.17;MG;App;Pix;Sim
+831;3d02e942-254d-4cb9-9625-38382b420c0e;05/03/2025;10/03/2025;Laboriosam;Beleza;422.98;2;49.84;PR;Site;Cartão de Crédito;Não
+832;3d40747f-b761-4cd5-a2d7-e054fca2641e;19/06/2025;24/06/2025;Sunt;Perfumes;468.4;3;19.15;RJ;Loja Física;Boleto;Não
+833;1ed74a82-1082-4f71-b49b-26ce22eeb6d4;26/02/2025;28/02/2025;Veniam;Cabelos;258.93;4;41.47;PR;Loja Física;Cartão de Crédito;Não
+834;2c11065f-bac9-4a5a-a766-0a551ba8a2f3;26/04/2025;02/05/2025;Quas;Perfumes;219.87;1;47.17;SC;Loja Física;Pix;Sim
+835;a2a76f11-036e-47af-a2d1-3866600934ba;04/06/2025;09/06/2025;Distinctio;Beleza;263.86;3;46.22;PR;Site;Carteira Digital;Sim
+836;eeaad13b-0be2-417a-8de1-d3df6adc53b2;07/07/2025;09/07/2025;Quam;Infantil;487.29;1;25.18;BA;Loja Física;Boleto;Sim
+837;126aab21-742c-4abe-aead-a6d0668005fd;07/02/2025;14/02/2025;Perspiciatis;Pele;257.57;4;1.65;DF;Site;Cartão de Crédito;Sim
+838;547c30df-7298-441a-95e7-f1ff7f68f1cb;18/01/2025;21/01/2025;Eveniet;Cabelos;497.46;1;46.16;RJ;App;Cartão de Crédito;Não
+839;812e1eaf-7e7e-464c-9fe8-9fe1fc6c699d;03/04/2025;08/04/2025;Quibusdam;Pele;141.22;1;48.39;PR;Site;Boleto;Não
+840;7ab821be-8e90-4aba-b679-ca57ab812ba5;19/06/2025;25/06/2025;Voluptatibus;Beleza;278.18;1;20.8;BA;App;Boleto;Sim
+841;57041032-240d-4e59-92b5-d58312e83fc0;10/05/2025;17/05/2025;Accusamus;Cabelos;355.51;4;5.66;BA;Loja Física;Cartão de Crédito;Não
+842;4f81bfe2-4d44-4253-8ed1-4514b3bf519d;19/01/2025;25/01/2025;Nesciunt;Perfumes;254.99;2;47.26;BA;Site;Pix;Sim
+843;14abc459-c4f6-4ee5-b133-3520cd7082d5;15/04/2025;20/04/2025;Possimus;Cabelos;437.42;1;49.21;RJ;Loja Física;Boleto;Não
+844;230ff68d-d27b-4229-95a0-55ebb23dadec;25/01/2025;30/01/2025;Iure;Maquiagem;323.26;3;37.69;SC;Site;Pix;Sim
+845;4ed42c88-9041-428f-8620-ca9f315e8ddb;06/07/2025;10/07/2025;Voluptas;Cabelos;482.31;2;41.02;BA;App;Pix;Não
+846;38d380eb-d462-4377-9881-ab201aceadd0;29/01/2025;04/02/2025;Sunt;Cabelos;436.33;1;34.97;DF;Loja Física;Cartão de Crédito;Sim
+847;3d5ee460-01ef-4faf-b1a1-85dc5416a0c2;02/05/2025;06/05/2025;Esse;Infantil;143.63;1;40.89;BA;App;Boleto;Sim
+848;f17d5a53-c134-409a-a401-a787b2fb0ccd;17/04/2025;22/04/2025;Ipsa;Beleza;244.37;4;25.07;BA;App;Cartão de Crédito;Não
+849;e60a6594-0fa4-4be0-8c1c-56120e9e594a;31/05/2025;07/06/2025;Dolorem;Pele;265.91;2;45.73;PR;Site;Pix;Não
+850;5fe05c5d-e519-4fa5-b825-553ed5c54e0e;16/03/2025;22/03/2025;Officiis;Perfumes;248.79;2;47.37;SP;App;Boleto;Não
+851;33aa8aef-bc1c-445d-bbe4-45042c5d7923;01/05/2025;04/05/2025;Accusantium;Maquiagem;468.97;2;24.53;RJ;Site;Boleto;Sim
+852;c1e9683d-95e3-42e3-bc9b-7b74ebb1ace2;18/06/2025;25/06/2025;Dolorum;Infantil;397.37;3;28.29;RJ;Site;Boleto;Não
+853;779260ec-329f-4e8e-991a-8a213a5b5d97;14/02/2025;20/02/2025;Cumque;Beleza;450.69;4;42.92;RS;Loja Física;Carteira Digital;Sim
+854;10dc0db8-33e1-4b93-b510-1d8ff90b280d;22/01/2025;26/01/2025;Voluptatem;Infantil;389.38;2;27.19;MG;Site;Carteira Digital;Não
+855;f81dc817-bd82-467c-bea3-6c03b711a82c;03/02/2025;11/02/2025;Culpa;Beleza;280.01;3;41.27;RJ;Site;Cartão de Crédito;Sim
+856;c225b8c9-6e68-43d4-9753-141dd2f5cb88;18/03/2025;21/03/2025;Cumque;Pele;181.55;1;45.72;RJ;Loja Física;Boleto;Não
+857;4b13c46a-109a-4abe-a81b-bd5865c9912f;02/06/2025;06/06/2025;Eligendi;Perfumes;50.62;4;46.25;SC;App;Carteira Digital;Não
+858;20090013-caf5-42c9-a2df-7b09233b59f2;23/05/2025;29/05/2025;Quas;Pele;52.82;4;24.24;SP;App;Cartão de Crédito;Sim
+859;fe91a2c5-4777-43b1-8775-64047f9bee79;13/06/2025;17/06/2025;Repellendus;Infantil;232.18;2;32.99;RJ;Loja Física;Cartão de Crédito;Sim
+860;04417233-1db5-454e-a116-288eba1ab79c;21/04/2025;26/04/2025;Minima;Pele;444.07;1;10.39;RJ;App;Pix;Sim
+861;0ef96d4a-3133-4afa-b4a9-1da3d6780885;05/04/2025;11/04/2025;Labore;Pele;79.88;1;32.14;DF;App;Carteira Digital;Sim
+862;a261f03a-64de-463b-b08e-6e9b30d724ad;05/05/2025;13/05/2025;Dolorem;Perfumes;344.89;4;45.69;MG;Loja Física;Boleto;Sim
+863;71c1fcae-bb3f-4114-b19e-0168328a4a9d;28/03/2025;31/03/2025;Quaerat;Infantil;484.43;3;38.53;SC;Loja Física;Pix;Sim
+864;8911c2f0-ecbe-4702-8184-6bfce424afbd;02/07/2025;03/07/2025;Laborum;Pele;344.2;4;1.96;BA;Site;Boleto;Sim
+865;cf73796e-6631-4e44-acc5-4d808ec51469;27/05/2025;03/06/2025;Pariatur;Beleza;121.08;2;33.08;SP;Loja Física;Carteira Digital;Sim
+866;e0631959-e391-40ef-9535-01fcf4b36b1f;08/07/2025;12/07/2025;Deleniti;Pele;56.44;1;17.62;RS;Loja Física;Pix;Sim
+867;dc57f48f-cdf5-4591-885e-ed322b8e1d88;24/06/2025;26/06/2025;Laborum;Perfumes;337.49;3;7.13;MG;Site;Boleto;Sim
+868;35e6f3ec-ade4-47b6-acb0-0a6d62703520;04/03/2025;09/03/2025;Qui;Maquiagem;321.2;1;35.33;PR;Site;Cartão de Crédito;Sim
+869;7d17afe1-6d2f-4e8e-b2b8-5fd2f495f59c;30/01/2025;02/02/2025;Ullam;Infantil;285.9;2;3.8;SP;Loja Física;Carteira Digital;Sim
+870;41ab880b-df5b-4258-b311-1d3f3fa76230;16/02/2025;21/02/2025;Numquam;Pele;337.74;3;42.48;RJ;App;Cartão de Crédito;Sim
+871;560a8afc-4339-4c34-81f1-eeb09dca663a;05/06/2025;11/06/2025;Ducimus;Infantil;327.64;3;21.13;DF;App;Pix;Sim
+872;544ff73f-e47d-45c2-8381-fc70d78a78cd;14/01/2025;17/01/2025;Dolore;Infantil;147.96;3;4.46;RS;Site;Pix;Sim
+873;df786907-d764-4be2-9d2b-c0b1e4594528;01/07/2025;07/07/2025;Similique;Cabelos;488.66;1;17.43;BA;App;Carteira Digital;Não
+874;126a1ee9-b939-4ebb-b6aa-7b05ee7663d8;06/07/2025;09/07/2025;Similique;Maquiagem;293.2;1;3.08;PR;Loja Física;Boleto;Não
+875;1750e657-2a91-44ec-94f4-773fba40d481;09/03/2025;13/03/2025;Praesentium;Pele;354.59;3;23.45;SC;Site;Cartão de Crédito;Não
+876;8bd895df-eda6-4709-ba2e-d488689cdb50;27/05/2025;01/06/2025;Dolores;Cabelos;72.07;4;22.33;RS;Loja Física;Carteira Digital;Não
+877;eea03a78-eba8-4feb-adb7-293288d495bc;04/05/2025;09/05/2025;Fugit;Pele;70.38;2;30.81;MG;Loja Física;Pix;Não
+878;f2f58079-e635-4fa1-8053-77f441d43b50;04/06/2025;08/06/2025;Vero;Perfumes;277.76;4;15.48;DF;App;Pix;Não
+879;520a4fcf-0c97-4e59-a8bf-595824d14f45;07/07/2025;12/07/2025;Impedit;Maquiagem;40.83;3;26.02;RJ;Site;Cartão de Crédito;Não
+880;ef95116b-bd2e-4c74-a5bc-a8d3b58806c0;22/05/2025;23/05/2025;Voluptas;Cabelos;46.53;1;31.96;RS;App;Cartão de Crédito;Sim
+881;a0538d80-5b82-4503-bf31-55da43a54284;12/03/2025;14/03/2025;Debitis;Beleza;189.64;3;42.12;SP;Loja Física;Carteira Digital;Sim
+882;766aaa2d-ef0a-4d28-9374-5df6db81ffd0;05/05/2025;11/05/2025;Sapiente;Beleza;263.7;1;49.95;PR;Loja Física;Carteira Digital;Sim
+883;f5b9a900-4618-4b4c-8692-4065f48c6904;10/04/2025;15/04/2025;Recusandae;Pele;459.49;2;45.07;SC;Site;Pix;Sim
+884;5dcef719-28e5-42c2-ad52-e9e622b4d83f;28/04/2025;06/05/2025;Voluptatibus;Perfumes;303.81;1;24.86;RJ;App;Pix;Sim
+885;639acb14-0971-4d43-ac8f-5feb3875ab85;11/02/2025;14/02/2025;Ullam;Infantil;191.19;2;36.27;RS;Loja Física;Boleto;Sim
+886;b58625a6-42f9-40fe-8978-3e15e18cc0f5;21/02/2025;02/03/2025;At;Perfumes;110.02;4;43.06;MG;Site;Boleto;Não
+887;292e9c6a-1e93-43c2-bb98-17347cfeec00;09/03/2025;10/03/2025;In;Pele;429.65;4;47.63;SP;Site;Carteira Digital;Sim
+888;0b628ea3-05de-46a2-b773-d92b5d7a48d4;22/02/2025;28/02/2025;Quam;Beleza;149.2;4;30.33;PR;App;Boleto;Sim
+889;1cbae61f-e1a9-43a3-8176-3dbd6d08ea07;04/02/2025;08/02/2025;Natus;Infantil;316.45;2;16.89;RS;Loja Física;Pix;Não
+890;2d7ca663-f117-442a-9230-46d8b38f6150;04/05/2025;15/05/2025;Totam;Perfumes;230.93;4;4.23;DF;Site;Cartão de Crédito;Não
+891;e07455f6-01f1-4e14-9945-82ac9ef91be0;11/03/2025;16/03/2025;Rem;Beleza;194.96;2;41.54;PR;Loja Física;Pix;Sim
+892;ca27f076-6193-4f7b-97ce-3c0c64828e6b;14/04/2025;21/04/2025;Laborum;Perfumes;472.65;4;35.2;SC;App;Cartão de Crédito;Não
+893;3433b374-efd6-4840-9afd-161847aa6c4e;22/01/2025;28/01/2025;Commodi;Perfumes;268.71;2;28.68;RS;Loja Física;Carteira Digital;Não
+894;8add8475-deae-4e0f-b201-c5b3634d3dbc;21/01/2025;24/01/2025;A;Pele;167.56;1;44.7;DF;App;Cartão de Crédito;Sim
+895;8d5df61c-6817-429c-a256-240109cc6600;29/06/2025;02/07/2025;Quaerat;Perfumes;202.57;4;31.12;MG;Site;Cartão de Crédito;Não
+896;96779ea6-6069-4690-8813-e5a74b15c48c;01/07/2025;07/07/2025;Eum;Cabelos;375.11;3;19.72;MG;Site;Boleto;Não
+897;ef521d2e-98ef-4289-84e7-166b6fa654d3;27/03/2025;27/03/2025;Amet;Maquiagem;86.47;1;24.46;RJ;Loja Física;Boleto;Não
+898;a5660d2c-0513-4e18-9818-88089dacadf5;25/06/2025;01/07/2025;Provident;Pele;429.58;1;5.88;RJ;App;Carteira Digital;Não
+899;cd4b0689-d3f5-4df3-b7d5-3c2208099fe7;16/01/2025;18/01/2025;Animi;Cabelos;498.79;1;15.23;MG;Loja Física;Carteira Digital;Sim
+900;b9d5204f-27d9-4682-b480-d3683699fd1e;13/01/2025;23/01/2025;Tenetur;Cabelos;447.46;4;19.86;SP;Site;Boleto;Sim
+901;ccfc94f6-92c9-47ab-9466-f163f6cae78d;04/07/2025;11/07/2025;Omnis;Infantil;103.9;3;17.36;SP;Loja Física;Boleto;Sim
+902;f025723d-b2c9-4e1b-a4d8-c58d878672ff;04/04/2025;08/04/2025;Iusto;Cabelos;301.14;1;30.16;PR;Site;Carteira Digital;Sim
+903;fe8df3c8-d1da-41f8-8807-bcfa5fc358f2;18/05/2025;22/05/2025;Rerum;Infantil;322.96;3;27.85;PR;Site;Boleto;Não
+904;94994de4-bd43-4459-8dae-51a4c2d8ab4a;05/06/2025;09/06/2025;A;Maquiagem;385.3;1;25.73;DF;App;Boleto;Sim
+905;920b6b8b-4a1e-4835-92fe-db0cda7fcba9;13/03/2025;16/03/2025;Labore;Perfumes;99.3;2;28.46;MG;Loja Física;Boleto;Não
+906;d3d304dc-d466-47c2-89a3-c456b33a2eb3;20/02/2025;25/02/2025;Nostrum;Cabelos;429.47;3;31.07;BA;App;Cartão de Crédito;Sim
+907;e3548155-301d-43b3-b049-5d3d470f51e3;11/01/2025;18/01/2025;Vero;Perfumes;391.79;1;16.11;SC;Site;Cartão de Crédito;Sim
+908;c0472b0b-8ade-4b22-9243-270ea8a5ddd7;04/04/2025;12/04/2025;Rerum;Cabelos;302.43;3;24.12;SC;Site;Cartão de Crédito;Sim
+909;150e998f-72cd-43a6-ba65-134ca96167f2;03/05/2025;07/05/2025;Eligendi;Perfumes;423.79;2;36.92;SP;Loja Física;Cartão de Crédito;Sim
+910;19c6810d-8de9-4cb7-84e8-46c3437d732f;11/03/2025;15/03/2025;Nobis;Perfumes;427.05;4;17.2;MG;Loja Física;Cartão de Crédito;Não
+911;f964b1b5-224a-491b-af53-04a0684ffe5e;02/06/2025;07/06/2025;Fugit;Maquiagem;44.6;3;0.33;SC;App;Cartão de Crédito;Não
+912;55507156-94e0-4b68-be9d-53ddb34ee497;13/05/2025;15/05/2025;Tenetur;Cabelos;183.54;3;11.85;DF;App;Pix;Sim
+913;05b85fe5-5b0e-4437-865b-8c9e6592bbcf;12/06/2025;16/06/2025;Iusto;Perfumes;230.17;1;2.73;MG;App;Carteira Digital;Sim
+914;9260a898-a3c4-4ab8-8a1c-f97570281a8c;02/04/2025;05/04/2025;Sequi;Beleza;466.32;2;4.81;PR;Loja Física;Carteira Digital;Não
+915;d1873fb1-1ea0-4090-8bed-0a71beee0d8a;20/05/2025;25/05/2025;Nobis;Cabelos;410.77;4;43.73;SP;Loja Física;Cartão de Crédito;Sim
+916;2506954f-8418-40af-be88-a4b5e5e82303;24/02/2025;02/03/2025;Molestias;Maquiagem;408.75;3;23.17;SP;App;Boleto;Não
+917;43c4580c-25d9-4b7c-a95e-52fc6aadeb0a;27/03/2025;01/04/2025;Laborum;Perfumes;353.42;1;44.47;BA;Site;Boleto;Não
+918;52feb0b0-80fb-4240-9e3f-1268cfa6f780;04/03/2025;10/03/2025;Modi;Infantil;68.05;1;19.58;PR;App;Carteira Digital;Não
+919;4e62729a-c555-453b-9733-30e5afa5ec0c;30/05/2025;04/06/2025;Enim;Maquiagem;367.94;2;23.5;PR;Loja Física;Carteira Digital;Sim
+920;07853a34-f76a-428c-8857-c1bc783c0e47;05/05/2025;14/05/2025;Ea;Perfumes;165.5;4;0.65;DF;Site;Pix;Não
+921;27fa5228-2ea2-459f-9686-eedf2a664d58;19/03/2025;23/03/2025;Molestias;Pele;303.27;3;13.18;PR;Loja Física;Pix;Não
+922;76e96ae2-b7a5-424a-8f43-f98587199208;27/03/2025;03/04/2025;Quam;Infantil;156.6;3;6.15;MG;Loja Física;Cartão de Crédito;Sim
+923;3bf11617-1fdb-44cf-81e9-3b483495e818;20/03/2025;23/03/2025;Voluptate;Perfumes;368.15;2;25.32;MG;Site;Boleto;Não
+924;33765954-c1ca-4f16-b41f-09d7b7f218cb;20/02/2025;26/02/2025;Asperiores;Pele;305.72;2;47.03;SP;Site;Carteira Digital;Sim
+925;697c399e-8258-4150-a7c0-ab0212c5b179;13/01/2025;22/01/2025;Eaque;Beleza;293.53;1;20.26;MG;App;Carteira Digital;Sim
+926;2bb5b120-0e6e-4c2c-9a15-8e03b2f4f0e8;18/03/2025;20/03/2025;Facere;Beleza;278.27;3;22.78;PR;Site;Pix;Sim
+927;5ae78b95-34f1-45b6-a230-c842899a0d76;03/04/2025;09/04/2025;Placeat;Maquiagem;248.4;3;42.12;SP;Loja Física;Carteira Digital;Não
+928;c022167d-5ea8-43dd-969a-5a18a827658c;19/05/2025;21/05/2025;Consectetur;Maquiagem;459.01;1;15.16;PR;Loja Física;Cartão de Crédito;Sim
+929;007bf6e9-916e-4a97-bb3a-b1e47c59fb46;13/06/2025;19/06/2025;Magni;Infantil;94.09;3;20.47;DF;App;Cartão de Crédito;Sim
+930;616b3283-2340-429c-ba64-408b81197f79;02/05/2025;03/05/2025;Nihil;Infantil;300.17;1;15.82;PR;Site;Cartão de Crédito;Sim
+931;09aac355-6852-44d3-b8fc-4e650b63050a;25/04/2025;29/04/2025;Officia;Maquiagem;424.43;3;37.46;MG;Loja Física;Cartão de Crédito;Não
+932;f2936b6d-0d5e-4c5c-99a6-3ddf664e7129;13/05/2025;16/05/2025;Repellendus;Cabelos;234.8;2;32.36;SP;Site;Cartão de Crédito;Não
+933;0142b6fd-aff2-4d04-8585-1adab0eff8ef;23/03/2025;24/03/2025;Harum;Perfumes;244.9;1;25.63;BA;Loja Física;Carteira Digital;Não
+934;fb97acbd-20ec-4617-9bd3-efca59ec0675;11/06/2025;19/06/2025;Molestiae;Maquiagem;65.34;1;24.53;RS;Loja Física;Cartão de Crédito;Sim
+935;e75c0140-8e61-471a-8c41-5021622117d6;14/02/2025;21/02/2025;Voluptate;Beleza;407.47;4;2.23;PR;Loja Física;Pix;Não
+936;ee884672-a4bd-4616-a212-254d8fe64f67;07/06/2025;10/06/2025;Blanditiis;Pele;408.67;4;20.65;RS;Loja Física;Boleto;Não
+937;914581c1-4e4c-4544-a419-db6743978c1f;23/03/2025;25/03/2025;Vitae;Perfumes;145.06;1;22.34;SP;App;Boleto;Não
+938;e8063d66-fb98-4c5d-8152-0c36532d3de9;31/01/2025;05/02/2025;Repellat;Maquiagem;178.52;1;13.03;RJ;Loja Física;Cartão de Crédito;Não
+939;b700e6fc-64af-4839-8124-07276976229c;04/02/2025;12/02/2025;Nostrum;Pele;87.29;3;17.57;RJ;Loja Física;Pix;Não
+940;359558bf-188d-41db-b6c2-11a0e6d27354;22/03/2025;27/03/2025;Doloribus;Infantil;98.2;4;7.04;DF;App;Carteira Digital;Sim
+941;156c7c7d-3ba9-49a3-b5f1-8c28b98ceb8a;11/04/2025;17/04/2025;Libero;Pele;56.85;3;41.32;DF;Loja Física;Carteira Digital;Sim
+942;36e33547-7b3f-41e2-acfb-ed9d96abe312;22/05/2025;31/05/2025;Voluptatum;Perfumes;42.29;2;1.64;RJ;App;Cartão de Crédito;Não
+943;3a6faa1a-6fbf-4202-992b-9c165549eef4;29/01/2025;05/02/2025;Animi;Infantil;463.21;1;0.92;RS;Loja Física;Boleto;Não
+944;7f4b1706-12b7-4d1f-b812-bc0330a2065e;10/03/2025;17/03/2025;Ratione;Perfumes;424.32;1;39.61;BA;Loja Física;Cartão de Crédito;Não
+945;c99f7e2f-dd81-4383-b816-46b4a4f6a2a0;29/01/2025;03/02/2025;Modi;Cabelos;158.39;4;12.98;PR;Site;Carteira Digital;Não
+946;f0d38056-a98c-4dd0-b2b5-82a68da75a25;14/02/2025;20/02/2025;Iusto;Beleza;220.18;4;37.83;MG;App;Pix;Não
+947;e04bd192-98f9-48ae-aa9e-ff110036c3f5;29/01/2025;01/02/2025;Similique;Cabelos;240.64;1;19.94;PR;Site;Boleto;Não
+948;c148f4f8-7466-4d14-ac85-467a8299eca7;18/06/2025;24/06/2025;Optio;Infantil;147.43;4;40.07;RS;Site;Boleto;Não
+949;74e722f4-f1de-4cbc-b640-ccda24ea54a0;10/03/2025;15/03/2025;Labore;Cabelos;408.87;4;30.55;RS;Site;Boleto;Não
+950;4da66c12-aff8-4af2-b54b-c9ebf1e0a977;01/02/2025;09/02/2025;Quibusdam;Cabelos;244.76;2;2.05;RJ;Site;Cartão de Crédito;Não
+951;cd15ff7f-1570-4e43-b759-1ac0261079de;01/06/2025;05/06/2025;Blanditiis;Maquiagem;438.99;3;21.95;SP;Loja Física;Cartão de Crédito;Não
+952;0664765d-c868-4bf8-bd31-faa1bcbd3d15;15/05/2025;21/05/2025;Molestiae;Pele;332.1;2;27.59;BA;App;Pix;Não
+953;0c1ad3b6-7216-44f3-b18a-c34f9111c40d;06/04/2025;11/04/2025;Laboriosam;Cabelos;256.13;1;41.01;PR;App;Boleto;Sim
+954;b607f7ef-08d1-4f59-899b-7f9fa79b8a4b;07/07/2025;09/07/2025;Temporibus;Beleza;366.26;2;34.29;SC;App;Cartão de Crédito;Não
+955;76d96f51-ef8f-459f-bc27-d1ee75e8b4f7;06/02/2025;12/02/2025;Nisi;Perfumes;96.67;1;36.94;MG;App;Cartão de Crédito;Não
+956;3c858fce-b02e-4036-8ea4-9223b35edf91;08/04/2025;14/04/2025;Ratione;Pele;205.12;4;29.29;SP;Site;Boleto;Não
+957;790a8bde-a880-4041-bd0a-8f8c6aa50c48;20/03/2025;25/03/2025;Laudantium;Maquiagem;304.84;3;40.37;RJ;App;Pix;Não
+958;e5d9fbf9-f6a8-4b72-a226-5272c872a195;25/05/2025;03/06/2025;Numquam;Cabelos;399.65;2;33.17;PR;Site;Pix;Não
+959;e7ec8995-abb1-40dc-b736-42d1891a089a;11/02/2025;15/02/2025;Neque;Maquiagem;279.02;2;49.47;BA;App;Boleto;Não
+960;a5c570a7-ea92-43d9-9599-a976503685d8;22/06/2025;25/06/2025;Perferendis;Perfumes;80.69;3;46.68;RS;App;Pix;Não
+961;545a36fb-aa61-4da0-9279-49f16b24549f;11/01/2025;18/01/2025;Incidunt;Perfumes;216.24;1;34.55;PR;App;Boleto;Sim
+962;dc099614-12d5-4e42-a34f-ded6dd2cc346;22/06/2025;26/06/2025;In;Maquiagem;289.04;1;1.11;RS;Site;Pix;Sim
+963;d4f62f05-9f76-4c5c-b918-72007c1487d5;15/05/2025;21/05/2025;Hic;Maquiagem;473.22;4;35.33;SC;App;Boleto;Sim
+964;195dc923-6116-48a4-a4a8-3ea697d43498;15/04/2025;21/04/2025;Repudiandae;Infantil;369.33;1;18.82;MG;App;Cartão de Crédito;Sim
+965;6179bf20-42e7-4e19-8b50-e40e2b8640c5;13/01/2025;16/01/2025;Aspernatur;Perfumes;121.55;4;32.54;DF;Site;Pix;Não
+966;e9644c13-18ff-42d9-92b4-de4b346e13d7;04/05/2025;09/05/2025;Tempore;Pele;93.04;4;4.74;PR;Loja Física;Cartão de Crédito;Não
+967;395e0726-6b8c-4e06-b0f4-e59276e8fdf7;21/04/2025;22/04/2025;Corrupti;Beleza;62.43;1;17.02;MG;Site;Boleto;Não
+968;ae1e1cab-dede-4ad2-9a97-3b16c799fa14;15/06/2025;20/06/2025;Laborum;Perfumes;93.54;2;16.75;RJ;App;Pix;Não
+969;79927148-bff0-45fc-8d4e-cffa6afd59a8;04/06/2025;08/06/2025;Dolore;Pele;301.28;3;34.18;BA;Loja Física;Pix;Não
+970;a6d02e2a-3b35-47d5-8a2c-61b371d2b12f;30/04/2025;30/04/2025;Laborum;Beleza;467.52;1;18.86;SC;Site;Pix;Sim
+971;c454b4fb-a4f9-449c-9352-1003dfca1820;08/05/2025;11/05/2025;Dolorem;Maquiagem;173.54;2;40.54;MG;App;Pix;Não
+972;8f886bec-3d09-4e48-bcfb-f694504fef78;31/03/2025;11/04/2025;Cumque;Infantil;147.13;3;17.49;DF;Loja Física;Carteira Digital;Sim
+973;8226c90c-e67c-4c2c-9766-477e7da75563;15/02/2025;20/02/2025;Maiores;Perfumes;242.38;1;16.21;PR;App;Boleto;Sim
+974;99786ec3-ebf9-405c-9cf5-07b8f82b74c3;15/05/2025;19/05/2025;Mollitia;Infantil;53.1;3;35.51;BA;App;Carteira Digital;Sim
+975;62b6e1b4-72d2-48c3-b5bc-d1f7e383d3af;30/03/2025;02/04/2025;Deleniti;Beleza;344.62;1;33.39;MG;App;Boleto;Não
+976;09fbfb49-f1af-41ab-a699-129e07929ef9;30/05/2025;04/06/2025;Itaque;Pele;146.19;4;42.99;PR;Loja Física;Pix;Não
+977;bcf20d18-484b-4873-bce1-77709a048994;08/07/2025;13/07/2025;Animi;Pele;386.45;4;1.74;DF;App;Carteira Digital;Não
+978;5cba7f5a-c127-4f61-9276-5fe6167db96f;13/05/2025;18/05/2025;Modi;Cabelos;413.28;3;3.48;MG;Site;Boleto;Sim
+979;a90aca4e-089b-4c62-b382-8ff5c5888eab;04/02/2025;10/02/2025;Tempora;Infantil;187.71;1;1.26;PR;Loja Física;Cartão de Crédito;Sim
+980;050513c6-23f6-486c-9477-d57b09adb797;03/02/2025;11/02/2025;Ratione;Cabelos;398.73;4;9.47;SC;Site;Cartão de Crédito;Sim
+981;486c6e93-aa4f-4049-94c4-6096772e3d4c;09/03/2025;14/03/2025;Ex;Perfumes;400.49;1;25.69;SP;Site;Carteira Digital;Sim
+982;18b3d7e6-4dfb-4ce7-8d69-4679a224ad56;28/01/2025;04/02/2025;Voluptatum;Beleza;493.38;2;1.46;PR;Loja Física;Boleto;Sim
+983;0c868322-a698-42b8-b18b-df8c53765b74;29/03/2025;05/04/2025;Magni;Infantil;357.22;4;27.18;SC;App;Boleto;Sim
+984;271e94eb-13b9-46f6-be89-f9fe01974043;30/06/2025;06/07/2025;Amet;Infantil;113.25;1;40.15;PR;App;Boleto;Sim
+985;d73271db-b517-4ed5-92ab-4ffbae5e05cb;29/04/2025;08/05/2025;Dolores;Maquiagem;249.85;1;43.99;MG;Site;Cartão de Crédito;Não
+986;df271dbf-6b59-4a43-9026-539c098f5c15;21/02/2025;24/02/2025;Mollitia;Pele;235.06;4;2.46;DF;App;Pix;Não
+987;d5b50f03-a064-4ee2-ab46-5d1f67a47b11;31/05/2025;05/06/2025;Nobis;Cabelos;54.29;1;49.99;MG;Loja Física;Carteira Digital;Não
+988;2db6b484-6ce3-425b-8296-1c09bdf48782;05/04/2025;07/04/2025;Ducimus;Maquiagem;324.3;4;38.18;PR;App;Carteira Digital;Sim
+989;2a444510-0ee7-4d35-907f-2c3429fd298b;13/02/2025;17/02/2025;Deserunt;Beleza;235.41;2;30.39;DF;App;Pix;Não
+990;3b326866-aa69-4f19-96e1-713a32c2c878;30/04/2025;05/05/2025;Maiores;Pele;190.12;1;8.53;MG;App;Cartão de Crédito;Sim
+991;035b2a42-d207-41d6-b90c-99112933d67b;28/03/2025;04/04/2025;Fugiat;Maquiagem;314.83;2;48.48;MG;App;Pix;Não
+992;6bbaeab4-bdd2-4ece-9cf8-1e225989e8d6;31/03/2025;03/04/2025;Tempora;Maquiagem;198.17;1;42.92;SP;Loja Física;Carteira Digital;Não
+993;45798156-3fff-4210-8b54-be26e672ec7e;24/04/2025;01/05/2025;Dicta;Pele;143.51;3;0.08;SP;App;Pix;Sim
+994;5f77249a-c8bb-47f5-b2c4-3d097944cf7f;29/06/2025;07/07/2025;Hic;Beleza;380.57;4;28.59;BA;Site;Carteira Digital;Não
+995;9e32061c-1fe6-40a2-9fd5-139dd00b5229;24/06/2025;26/06/2025;Adipisci;Perfumes;91.26;4;13.42;RS;Site;Carteira Digital;Não
+996;4438a60a-4789-4ad0-89e8-8493e4d0f574;17/03/2025;18/03/2025;Mollitia;Cabelos;439.61;1;9.95;PR;Site;Carteira Digital;Sim
+997;7d36eba2-82c0-4c0e-94a2-2e4df04b13e0;27/06/2025;02/07/2025;Laudantium;Maquiagem;40.4;3;33.46;PR;App;Pix;Não
+998;2e8efb70-133d-469e-bb87-02e2a9741b59;26/05/2025;28/05/2025;Repellat;Cabelos;285.18;2;8.98;RJ;Site;Boleto;Não
+999;0347ecfd-c182-4b79-8e5a-1123fb58d5f0;13/06/2025;19/06/2025;Dolor;Beleza;356.57;3;45.9;DF;Loja Física;Carteira Digital;Não
+1000;43266abf-6d61-4f55-bab4-c800dcbf54d7;04/07/2025;12/07/2025;Quas;Infantil;330.2;1;12.63;DF;Site;Pix;Sim

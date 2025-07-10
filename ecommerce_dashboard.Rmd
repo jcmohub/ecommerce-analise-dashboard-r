@@ -1,0 +1,88 @@
+---
+title: "Dashboard de Vendas - E-commerce"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(DBI)
+library(RSQLite)
+library(ggplot2)
+library(dplyr)
+library(plotly)
+library(DT)
+con <- dbConnect(SQLite(), "ecommerce.sqlite")
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart A
+
+```{r}
+query <- "
+SELECT category,
+       ROUND(SUM(price * quantity - discount), 2) AS total_vendas
+FROM ecommerce
+GROUP BY category
+ORDER BY total_vendas DESC;
+"
+vendas_categoria <- dbGetQuery(con, query)
+
+plot_ly(vendas_categoria, x = ~category, y = ~total_vendas, type = 'bar') |>
+  layout(title = "Total de Vendas por Categoria")
+
+```
+
+Column {data-width=350}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+query2 <- "
+  SELECT channel,
+         ROUND(AVG((price * quantity - discount)), 2) AS ticket_medio
+  FROM ecommerce
+  GROUP BY channel
+  ORDER BY ticket_medio DESC
+"
+
+ticket_canal <- dbGetQuery(con, query2)
+ticket_canal$channel <- iconv(ticket_canal$channel, from = "", to = "UTF-8")
+
+plot_ly(ticket_canal, x = ~channel, y = ~ticket_medio, type = 'bar') |>
+  layout(title = "Ticket Médio por Canal",
+         xaxis = list(title = "Canal"),
+         yaxis = list(title = "Ticket Médio (R$)"))
+
+```
+
+### Chart C
+
+```{r}
+query3 <- "
+  SELECT channel,
+         SUM(quantity) AS total_itens
+  FROM ecommerce
+  GROUP BY channel
+  ORDER BY total_itens DESC
+"
+
+itens_canal <- dbGetQuery(con, query3)
+itens_canal$channel <- iconv(itens_canal$channel, from = "", to = "UTF-8")
+
+plot_ly(itens_canal, x = ~channel, y = ~total_itens, type = 'bar') |>
+  layout(title = "Total de Itens Vendidos por Canal",
+         xaxis = list(title = "Canal"),
+         yaxis = list(title = "Itens Vendidos"))
+
+
+```
+
+
+
+
